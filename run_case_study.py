@@ -1,11 +1,10 @@
-# run_case_study.py
-
 import os
 import csv
 import glob
 import re
 import statistics
 from benchmark import run_benchmark
+from benchmark_util import count_valid_tokens
 
 FACILITY_NAME = "Council Bluffs, Iowa"
 NUM_REPEATS = 5
@@ -16,9 +15,25 @@ FU_CONFIGS = {
 }
 
 RPS_VALUES = [8, 16, 32, 64, 128]
-
 SUMMARY_DIR = "summary"
 os.makedirs(SUMMARY_DIR, exist_ok=True)
+
+
+def load_txt_result(result_path):
+    parsed = []
+    current = {}
+    with open(result_path, encoding="utf-8") as f:
+        for line in f:
+            if line.startswith("TTFT:"):
+                current["ttft"] = float(line.split(":")[1].strip().split()[0])
+            elif line.startswith("TPOT:"):
+                current["tpot"] = float(line.split(":")[1].strip().split()[0]) / 1000
+            elif line.startswith("Output Tokens:"):
+                current["output_token_length"] = int(line.split(":")[1].strip())
+                parsed.append(current)
+                current = {}
+    return parsed
+
 
 model_name = input("Enter model name (e.g., bigscience/bloom-7b1): ").strip()
 model_url = input("Enter model URL (e.g., http://localhost:8000/v1/completions): ").strip()
@@ -36,77 +51,79 @@ with open(summary_path, mode="w", newline="") as summary_file:
     writer = csv.writer(summary_file)
     writer.writerow([
         "Model", "FU_Config", "RPS",
-        "Avg CFU (kgCO2eq/FU)", "Std CFU", "Avg EFU (kWh/FU)", "Std EFU",
-        "PUE", "CI (kgCO2/kWh)", "Avg Energy Consumed (kWh)", "Avg Output Tokens", "Avg Valid FU Tokens", "Avg Emissions (kgCO2eq)",
+        "Avg CFU (kgCO2eq/FU)", "Std CFU",
+        "Avg EFU (kWh/FU)", "Std EFU",
+        "PUE", "CI (kgCO2/kWh)",
+        "Avg Energy Consumed (kWh)", "Avg Output Tokens", "Avg Valid FU Tokens", "Avg Emissions (kgCO2eq)",
         "CSV Files", "TXT Files"
     ])
 
-    for fu_label, fu in FU_CONFIGS.items():
-        for rps in RPS_VALUES:
-            print(f"\n▶ Running {model_name} | {fu_label} | RPS: {rps} (x{NUM_REPEATS})")
-            cfu_list = []
-            efu_list = []
-            emissions_list = []
-            energy_list = []
-            output_tokens_list = []
-            valid_tokens_list = []
-            csv_files = []
-            txt_files = []
-            pue_used = None
-            ci_list = []
+    for rps in RPS_VALUES:
+        print(f"\n▶ Running {model_name} | RPS: {rps} (x{NUM_REPEATS})")
 
-            for i in range(NUM_REPEATS):
-                result = run_benchmark(
-                    model_name=model_name,
-                    model_url=model_url,
-                    rps=rps,
-                    ttft_thresh=fu["ttft"],
-                    tpot_thresh=fu["tpot"],
-                    facility_name=FACILITY_NAME,
-                    index=benchmark_index
-                )
-                benchmark_index += 1
+        results_per_fu = {label: {
+            "cfus": [], "efus": [], "valid_tokens": []
+        } for label in FU_CONFIGS}
+        emissions_list, energy_list, output_tokens_list = [], [], []
+        csv_files, txt_files = [], []
+        pue_used, ci_used = None, None
 
-                if result["cfu"] is not None:
-                    cfu_list.append(result["cfu"])
-                    efu_list.append(result["efu"])
-                    emissions_list.append(result["emissions"])
-                    energy_list.append(result["energy_consumed"])
-                    output_tokens_list.append(result["total_output_tokens"])
-                    valid_tokens_list.append(result["valid_tokens"])
+        for i in range(NUM_REPEATS):
+            result = run_benchmark(
+                model_name=model_name,
+                model_url=model_url,
+                rps=rps,
+                ttft_thresh=999,
+                tpot_thresh=999,
+                facility_name=FACILITY_NAME,
+                index=benchmark_index
+            )
+            benchmark_index += 1
+
+            parsed = load_txt_result(result["txt_path"])
+
+            for label, fu in FU_CONFIGS.items():
+                valid = count_valid_tokens(parsed, fu["ttft"], fu["tpot"])
+                if valid > 0:
+                    cfu = result["emissions"] / valid
+                    efu = result["energy_consumed"] / valid
                 else:
-                    # Fill in 0s for failed runs
-                    cfu_list.append(0.0)
-                    efu_list.append(0.0)
-                    emissions_list.append(0.0)
-                    energy_list.append(0.0)
-                    output_tokens_list.append(0)
-                    valid_tokens_list.append(0)
+                    cfu = 0.0
+                    efu = 0.0
+                results_per_fu[label]["cfus"].append(cfu)
+                results_per_fu[label]["efus"].append(efu)
+                results_per_fu[label]["valid_tokens"].append(valid)
 
-                print(f"RUN RESULTS {i}: Token ratio={result['valid_tokens']}/{result['total_output_tokens']}, CFU={result['cfu']}, EFU={result['efu']}, Emissions={result['emissions']}, Energy={result['energy_consumed']}")
+            emissions_list.append(result["emissions"])
+            energy_list.append(result["energy_consumed"])
+            output_tokens_list.append(result["total_output_tokens"])
+            pue_used = result["PUE"]
+            ci_used = result["CI"]
+            csv_files.append(os.path.basename(result["csv_path"]))
+            txt_files.append(os.path.basename(result["txt_path"]))
 
-                csv_files.append(os.path.basename(result["csv_path"]))
-                txt_files.append(os.path.basename(result["txt_path"]))
-                pue_used = result["PUE"]
-                ci_list.append(result["CI"])
+        def avg(lst): return sum(lst) / len(lst) if lst else 0.0
+        def std(lst): return statistics.stdev(lst) if len(lst) > 1 else 0.0
 
-            def safe_avg(lst): return sum(lst) / len(lst) if lst else 0.0
-            def safe_std(lst): return statistics.stdev(lst) if len(lst) > 1 else 0.0
+        for label in FU_CONFIGS:
+            cfus = results_per_fu[label]["cfus"]
+            efus = results_per_fu[label]["efus"]
+            valid_tokens = results_per_fu[label]["valid_tokens"]
 
             writer.writerow([
                 model_name,
-                fu_label,
+                label,
                 rps,
-                f"{safe_avg(cfu_list):.20f}",
-                f"{safe_std(cfu_list):.20f}",
-                f"{safe_avg(efu_list):.20f}",
-                f"{safe_std(efu_list):.20f}",
+                f"{avg(cfus):.20f}",
+                f"{std(cfus):.20f}",
+                f"{avg(efus):.20f}",
+                f"{std(efus):.20f}",
                 pue_used,
-                f"{safe_avg(ci_list):.6f}",
-                f"{safe_avg(energy_list):.6f}",
-                f"{safe_avg(output_tokens_list):.2f}",
-                f"{safe_avg(valid_tokens_list):.2f}",
-                f"{safe_avg(emissions_list):.6f}",
+                f"{ci_used:.6f}",
+                f"{avg(energy_list):.6f}",
+                f"{avg(output_tokens_list):.2f}",
+                f"{avg(valid_tokens):.2f}",
+                f"{avg(emissions_list):.6f}",
                 ";".join(csv_files),
                 ";".join(txt_files)
             ])
