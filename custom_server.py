@@ -9,7 +9,9 @@ def main():
     args = parser.parse_args([])
 
     # Override arguments as needed
-    args.model = "meta-llama/Llama-3.1-8B"
+    model_input = input("Enter model name (e.g., meta-llama/Llama-3.1-8B): ").strip()
+    args.model = model_input
+    
     args.dtype = "float16"
     args.max_model_len = 4096
     args.tensor_parallel_size = 1
