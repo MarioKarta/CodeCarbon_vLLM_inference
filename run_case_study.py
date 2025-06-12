@@ -93,6 +93,7 @@ with open(summary_path, mode="w", newline="") as summary_file:
                 results_per_fu[label]["cfus"].append(cfu)
                 results_per_fu[label]["efus"].append(efu)
                 results_per_fu[label]["valid_tokens"].append(valid)
+                print(f"FU {label}, RUN {i}: {valid} valid tokens, {cfu:.6f} kgCO2eq/FU, {efu:.6f} kWh/FU")
 
             emissions_list.append(result["emissions"])
             energy_list.append(result["energy_consumed"])
@@ -101,6 +102,7 @@ with open(summary_path, mode="w", newline="") as summary_file:
             ci_used = result["CI"]
             csv_files.append(os.path.basename(result["csv_path"]))
             txt_files.append(os.path.basename(result["txt_path"]))
+            print(f"RESULTS RUN {i}: {result['CI']:.6f} kgCo2eq/kWh, {result['energy_consumed']:.6f} kWh, {result['emissions']:.6f} kgCO2eq")
 
         def avg(lst): return sum(lst) / len(lst) if lst else 0.0
         def std(lst): return statistics.stdev(lst) if len(lst) > 1 else 0.0
