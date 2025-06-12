@@ -11,6 +11,7 @@ def main():
     # Override arguments as needed
     args.model = "meta-llama/Llama-3.1-8B"
     args.dtype = "float16"
+    args.max_model_len = 4096
     args.tensor_parallel_size = 1
     args.max_batch_size = 4
     args.max_queue_size = 32
