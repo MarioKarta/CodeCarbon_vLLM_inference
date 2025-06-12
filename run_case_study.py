@@ -93,7 +93,7 @@ with open(summary_path, mode="w", newline="") as summary_file:
                 results_per_fu[label]["cfus"].append(cfu)
                 results_per_fu[label]["efus"].append(efu)
                 results_per_fu[label]["valid_tokens"].append(valid)
-                print(f"FU {label}, RUN {i}: {valid} valid tokens, {cfu:.6f} kgCO2eq/FU, {efu:.6f} kWh/FU")
+                print(f"FU {label}, RUN {i}: {valid} valid tokens, {cfu:.20f} kgCO2eq/FU, {efu:.20f} kWh/FU")
 
             emissions_list.append(result["emissions"])
             energy_list.append(result["energy_consumed"])
