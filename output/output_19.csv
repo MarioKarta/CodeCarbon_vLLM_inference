@@ -1,0 +1,20 @@
+metric,value
+Benchmark datetime,2025-06-12 17:33:41
+Model benchmarked,meta-llama/Llama-3.1-8B
+Total prompts,200
+Request rate (rps),64
+TTFT threshold (s),999
+TPOT threshold (s/token),999
+Datacenter location,"Council Bluffs, Iowa"
+PUE used,1.110
+RAM energy (kWh),0.000292
+CPU energy (kWh),0.000094
+GPU energy (kWh),0.001080
+Raw IT energy before PUE (kWh),0.001321
+Total energy after PUE (kWh),0.001466
+Carbon intensity used (kgCO2eq/kWh),0.430000
+Total output tokens,35720
+Total amount of emissions (kgCO2eq),0.0006304323
+Total amount of functional‐unit tokens,35720
+Carbon Emission per Functional Unit (kgCO2eq/FU),0.00000001764927990857
+Energy Consumption per Functional Unit (kWh/FU),0.00000004104483699668
