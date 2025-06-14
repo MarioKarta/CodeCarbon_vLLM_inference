@@ -26,6 +26,8 @@ def main():
     args.log_stats = True
     args.response_mode = "stream"
 
+    args.trust_remote_code = True
+
 
     asyncio.run(run_server(args))
 
