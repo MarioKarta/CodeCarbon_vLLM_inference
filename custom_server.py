@@ -27,8 +27,7 @@ def main():
     args.response_mode = "stream"
 
     args.trust_remote_code = True
-    args.enforce_eager = True
-    args.compilation_mode = "eager"
+    args.quantization = "awq"
 
 
     asyncio.run(run_server(args))
