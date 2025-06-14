@@ -13,7 +13,7 @@ def main():
     args.model = model_input
     
     args.dtype = "float16"
-    args.max_model_len = 4096
+    args.max_model_len = 2048
     args.tensor_parallel_size = 1
     args.max_batch_size = 4
     args.max_queue_size = 32
