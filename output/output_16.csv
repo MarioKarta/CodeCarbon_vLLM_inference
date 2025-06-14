@@ -1,0 +1,20 @@
+metric,value
+Benchmark datetime,2025-06-14 09:38:45
+Model benchmarked,TechxGenus/DeepSeek-V2-Lite-AWQ
+Total prompts,200
+Request rate (rps),64
+TTFT threshold (s),999
+TPOT threshold (s/token),999
+Datacenter location,"Council Bluffs, Iowa"
+PUE used,1.110
+RAM energy (kWh),0.000285
+CPU energy (kWh),0.000091
+GPU energy (kWh),0.001012
+Raw IT energy before PUE (kWh),0.001251
+Total energy after PUE (kWh),0.001388
+Carbon intensity used (kgCO2eq/kWh),0.430000
+Total output tokens,38384
+Total amount of emissions (kgCO2eq),0.0005968781
+Total amount of functional‐unit tokens,38384
+Carbon Emission per Functional Unit (kgCO2eq/FU),0.00000001555018096946
+Energy Consumption per Functional Unit (kWh/FU),0.00000003616321155689

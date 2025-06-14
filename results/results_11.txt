@@ -1,0 +1,1825 @@
+rps: 32
+TTFT threshold: 999 s
+TPOT threshold: 999 s/token
+Prompt: Provide three best practices for promoting positive mental health in an organization.
+Token Length: 13
+TTFT: 0.145 s
+TPOT: 65.036 ms
+Output Tokens: 84
+Response: {'choices': [{'text': '\nAnswer to relevant QuestionsWhat are the three most important factors in the success of a change intervention?What are the three most important factors in the success of a change intervention?What are the three most important factors in the success of a change intervention?What are the three most important factors in the success of a change intervention?What are the three most important factors in the success of a change intervention?\nPost your question'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a sentence defining the term natural selection
+Token Length: 8
+TTFT: 0.134 s
+TPOT: 65.656 ms
+Output Tokens: 68
+Response: {'choices': [{'text': '.\n1 Answer\nJun 24, 2017\nNatural selection is the differential survival and reproduction of individuals due to differences in the rate of physical or genetical characters.\nImpact of this question\n1144 views around the world\nYou can reuse this answer\nCreative Commons License\nCreative Commons License'}]}
+
+————————————————————————————————————————
+
+Prompt: Convert this sentence into the past continuous tense: We are playing soccer
+Token Length: 13
+TTFT: 0.126 s
+TPOT: 65.398 ms
+Output Tokens: 98
+Response: {'choices': [{'text': ' now.\nThe above downloadable printable is meant for high school students, elementary school students and kindergartners and other English learners. It is about the topic and words of Actions.\nCopyright License: This file is licensed by mrsrojas under the iSLCollective Copyright License\nUpload date: 2017-03-28 19:45:46\nNext worksheet >\nSimilar resources\nSend this resource in email to a friend'}]}
+
+————————————————————————————————————————
+
+Prompt: Check if the following statement is true or false: 
+Exams are the best way to measure a person's knowledge
+Token Length: 25
+TTFT: 0.084 s
+TPOT: 65.530 ms
+Output Tokens: 101
+Response: {'choices': [{'text': " of a subject.\nA. True B. False\nAnswer: A\nExplanation: Exams are not the best way to measure a person's knowledge of a subject.\nExams are not the best way to measure a person's knowledge of a subject.\nExams are not the best way to measure a person's knowledge of a subject.\nFollow N1edu on\nFacebook, Twitter, Google+.\nSubscribe and share:\nN1edu is a free e-"}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the characters of Dickens' book Great Expectations in 3 sentences
+Token Length: 14
+TTFT: 0.147 s
+TPOT: 65.512 ms
+Output Tokens: 109
+Response: {'choices': [{'text': '.\n1 Answer | Add Yours\nThe main character, Pip, is a young boy who lives with his sister and her husband, the Bumbles. Pip is a very likeable character, but he is also very naive. He is very much a product of his time and place. He is very much a product of his time and place. He is very much a product of his time and place. He is very much a product of his time and place.\nWe’ve answered 318,915 questions.'}]}
+
+————————————————————————————————————————
+
+Prompt: Write two metaphors that describe an ocean.
+Token Length: 8
+TTFT: 0.133 s
+TPOT: 65.067 ms
+Output Tokens: 186
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nOne metaphor that describes an ocean is a "vast, endless plain."\nAn ocean is a body of water that covers most of the earth\'s surface. It is so vast that it is impossible to see the end of it. It is so deep that no one has ever been to the bottom of it. It is so wide that no one has ever been from one side to the other.\nAn ocean is like a plain. A plain is a flat, open piece of land. It is so vast that no one has ever seen the end of it. It is so deep that no one has ever gone to the bottom of it. It is so wide that no one has gone from one end to the other.\nAn ocean is like a plain.\nWe’ve answered 318,915 questions. We can answer yours, too.Ask a question'}]}
+
+————————————————————————————————————————
+
+Prompt: Compile a list of strategies for effectively studying for a test.
+Token Length: 12
+TTFT: 0.066 s
+TPOT: 65.024 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- Make a study schedule.\n- Create a study group.\n- Take good notes in class.\n- Review your notes often.\n- Use flashcards.\n- Get plenty of rest.\n- Eat a healthy diet.\n- Exercise.\n- Get a good night’s sleep.\n- Don’t cram the night before the test.\n- Get to class on time.\n- Pay attention in class.\n- Take good notes.\n- Review your notes often.\n- Get help from a study group or a tutor.\n- Get plenty of rest.\n- Eat a healthy diet.\n- Exercise.\n- Get a good night’s sleep.\n- Don’t cram the night before the test.\n- Get to class on time.\n- Pay attention in class.\n- Take good notes.\n- Review your notes often.\n- Get help from a study group or a tutor.\n- Get'}]}
+
+————————————————————————————————————————
+
+Prompt: Design a Chutes and Ladders board game
+Token Length: 9
+TTFT: 0.105 s
+TPOT: 64.993 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nBudget $30-250 USD\nI need a board game designed for a board game I\'m creating. The game is called "Chutes and Ladders" and it\'s a board game for kids. I need a board game board designed. I\'ve attached a picture of the board game board I\'m basing my design off of. I\'ve also attached a picture of the game board I\'d like to use. I\'d like the board game board to be designed so that it can be printed on a piece of paper and folded in half to make a board game. I\'d like the board game board to be designed so that it can be printed on a piece of paper and folded in half to make a board game. I\'d like the board game board to be designed so that it can be printed on a piece of paper and folded in half to make a board game. I\'d like the board game board to be'}]}
+
+————————————————————————————————————————
+
+Prompt: Construct a sentence with the words: jovial, display, and energetic
+Token Length: 14
+TTFT: 0.116 s
+TPOT: 64.990 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\nJovial displays energy.\n'}]}
+
+————————————————————————————————————————
+
+Prompt: Construct an argument against animal testing
+Token Length: 6
+TTFT: 0.095 s
+TPOT: 64.983 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nAnimal testing is a very touchy subject for many people. It is a very controversial topic in the world today. Many people are for animal testing and many people are against it. I am for animal testing. I believe that animal testing is a very good thing. It is a very good way to test products before they are released to the public. It is also a good way to test new drugs. Animal testing is a very good way to test products before they are released to the public. It is also a good way to test new drugs.\nAnimal testing is a very touchy subject for many people. It is a very controversial topic in the world today. Many people are for animal testing and many people are against it. I am for animal testing. I believe that animal testing is a very good thing. It is a very good way to test products before they are released to the public. It is also a good way to test new drugs. Animal testing is a very good'}]}
+
+————————————————————————————————————————
+
+Prompt: Reword the phrase "It was a dark and stormy night"
+Token Length: 13
+TTFT: 0.103 s
+TPOT: 64.991 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' to sound like a Stephen King book.\nIt was a dark and stormy night. The wind howled, and the rain beat down with a deafening din. The trees creaked and moaned, their branches lashing out as if in a silent scream. The only light flickered fitfully, casting eerie shadows through the driving rain.\nThe air reeked of ozone and ozone, and the stench of death hung heavy in the air. The howls of some unknown creature filled the darkness, and the howls of others filled the howls of others.\nThe howls of others filled the howls of others.\nThe howls of others filled the howls of others.\nThe howls of others filled the howls of others.\nThe howls of others filled the howls of others.\nThe howls of others filled the howls of others.\nThe howls of others filled the howls of others.\nThe howls'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe a feature of a wind turbine.
+Token Length: 8
+TTFT: 0.144 s
+TPOT: 64.996 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nWind turbines are a type of machine that converts the potential energy of wind into mechanical energy. The mechanical energy can then be used to generate electricity.\nWind turbines are made up of three main parts: the rotor, the generator, and the tower. The rotor is the large, spinning part of the wind turbine that is exposed to the wind. The generator is a type of electrical machine that converts the mechanical energy from the wind into electrical energy. The tower is the structure that supports the rotor and generator.\nWind turbines are a type of machine that converts the potential energy of wind into mechanical energy. The mechanical energy can then be used to generate electricity.\nWind turbines are a type of machine that converts the potential energy of wind into mechanical energy. The mechanical energy can then be used to generate electricity.\nWind turbines are a type of machine that converts the potential energy of wind into mechanical energy. The mechanical energy can then be used to generate electricity.\nWind turbines are a type of machine'}]}
+
+————————————————————————————————————————
+
+Prompt: Please generate 3 to 5 words that are related to winter.
+Token Length: 14
+TTFT: 0.113 s
+TPOT: 65.004 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nPlease generate 3 to 5 words that are related to winter.\nWinter is a season that is characterized by cold weather, snow, and shorter days. It is a season that is often associated with holidays such as Christmas and New Year’s Day. Winter is also a time for many people to enjoy activities such as ice skating, sledding, and building snowmen.\nWinter is a season that is often associated with cold weather, snow, and shorter days. It is a time of year when many people enjoy spending time with family and friends, going on holidays, and celebrating the winter solstice.\nWinter is a season that is often associated with cold weather, snow, and shorter days. It is a time of year when many people enjoy spending time with family and friends, going on getaways, and enjoying the holiday season.\nWinter is a season that is often associated with cold weather, snow, and shorter days. It is a time of year when many people enjoy'}]}
+
+————————————————————————————————————————
+
+Prompt: What are the common techniques for solving a system of linear equations?
+Token Length: 13
+TTFT: 0.082 s
+TPOT: 64.997 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\n## Expert Answer\n\n### Want to see the step-by-step answer?\n\n### Want to see this answer and more?\n\nExperts are waiting 24/7 to provide step-by-step solutions in as fast as 30 minutes!*\n\n### Other\n\n## Related Algebra Q&A\n\nQ: Use the graph at the right to determine the solution of the inequality. 3 2 1 0 1 2 3 4 5 6 7 8 9 10 ...\n\nA: Given,\n\nQ: Use the graph at the right to determine the solution set of the inequality. 3 2 1 0 1 2 3 4 5 6 7 8 9 10 ...\n\nA: Consider the given graph,\n\nQ: Use the graph at the right to determine the solution set of the'}]}
+
+————————————————————————————————————————
+
+Prompt: Elaborate on the difference between unsupervised and supervised learning.
+Token Length: 12
+TTFT: 0.123 s
+TPOT: 65.069 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nUnsupervised learning is a type of machine learning where the model is trained on unlabeled data. The model is not given any target variable to predict, and it is up to the model to learn the underlying structure of the data. The model is then used to cluster similar data points together.\nSupervised learning, on the other hand, is a type of machine learning where the model is trained on labeled data. The model is given a target variable to predict, and it is up to the model to learn the mapping from the input features to the target variable. The model is then used to make predictions on new, unseen data.\nThe main difference between the two is that unsupervised learning does not have a target variable to predict, while supervised learning has a target variable to predict.\nWhat is the difference between supervised and unsupervised learning?\nSupervised learning is a type of machine learning in which the model is trained on labeled data. The model is given a set of input-output pairs and'}]}
+
+————————————————————————————————————————
+
+Prompt: Suggest a creative way to scare birds away from a garden.
+Token Length: 12
+TTFT: 0.092 s
+TPOT: 65.070 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nBy J.D.\nTHEY MAY be cute, but birds can cause a right old stink in the garden. They can gobble up your home-grown fruit and veg, and they can be a right pain when they start building their messy, smelly, disease-spreading nests in your greenhouses.\nSo how do you keep them out?\nThe best way to put birds off your patch is to hang up a CD. The reflective bits startle the birds, scaring them off.\nYou can also try hanging up old CDs the right way up. The reflection startles the birds and puts them off.\nYou can also try hanging up old CDs the right way up. The reflection startles the birds and puts them off.\nYou can also try hanging up old CDs the right way up. The reflection startles the birds and puts them off.\nYou can also try hanging up old CDs the right way up. The reflection startles the'}]}
+
+————————————————————————————————————————
+
+Prompt: Compose a haiku poem about a summer day.
+Token Length: 11
+TTFT: 0.101 s
+TPOT: 65.144 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe haiku is a Japanese form of poetry that is traditionally about nature. It is a very short form of course, but it is a very popular form of poetry.\nThe haiku is a very old form of poetry. It is thought to date back to the 14th century.\nThe haiku is a very simple form of poetry. It is a very short form of poetry.\nThe haiku is a very popular form of poetry. It is a very easy form of poetry to write.\nThe haiku is a very old form of poetry. It is thought to date back to the 14th century.\nThe haiku is a very simple form of poetry. It is a very short form of poetry.\nThe haiku is a very popular form of poetry. It is a very easy form of poetry to write.\nThe haiku is a very old form of poetry. It is thought to date back to the 14th century'}]}
+
+————————————————————————————————————————
+
+Prompt: Summarise the implications of an ageing population on the health-care system
+Token Length: 15
+TTFT: 0.114 s
+TPOT: 65.147 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the health-care system.\nSummarise the implications of an ageing population on the'}]}
+
+————————————————————————————————————————
+
+Prompt: Draft an article about the importance of exercising.
+Token Length: 9
+TTFT: 0.083 s
+TPOT: 65.148 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe importance of exercise is often overlooked. Many people do not realize the benefits that come from regular physical activity. Exercise can help to improve your overall health, both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both both'}]}
+
+————————————————————————————————————————
+
+Prompt: Compose a tweet addressing global warming
+Token Length: 7
+TTFT: 0.128 s
+TPOT: 65.123 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nI’m tweeting about global warming.\nI’ve been tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global warming.\nI’m tweeting about global'}]}
+
+————————————————————————————————————————
+
+Prompt: Identify three strategies to improve learning
+Token Length: 6
+TTFT: 0.097 s
+TPOT: 65.126 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' in the classroom.\n1 Answer | Add Yours\nThe three strategies that I think are the most important for improving learning in the classroom are as follows:\n- Asking questions that make students think\n- Asking students to work together\n- Asking students to teach each other\nAsking questions that make students THINK is important because it makes students use their short-term memory to process the question and then use their long-term memory to retrieve the information that they need to answer the question. This is an important part of the learning process because it helps students to learn how to think for themselves.\nWorking with others is also an important part of the learning process. When students work together, they can learn from one another and they can also learn to work together to solve problems. This is an important part of the learning process because it helps students to learn how to work together as a team.\nAsking students to teach each other is also an important part of the learning process'}]}
+
+————————————————————————————————————————
+
+Prompt: Develop rules of engagement for professional interactions
+Token Length: 7
+TTFT: 0.108 s
+TPOT: 65.119 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' with the media.\nThe media is a powerful force in our society. It has the power to make or break a company, for better or for worse. It is therefore important to know how to deal with the media in a professional and appropriate manner.\nThe first step is to develop a set of rules of engagement for professional interactions with the media. This should include what to do and say, as well as under what circumstances contact should be made. It is also important to have a clear understanding of the journalist’s role and the journalist’s responsibility to the public.\nThe second step is to create a system for handling media inquiries. This should include a system for logging all media inquiries, as well as a system for responding in a timely and professional manner.\nThe third step is to create a system for handling media interviews. This should include a system for preparing for interviews, as well as a system for following up on interviews.\nThe fourth and final step is to create a'}]}
+
+————————————————————————————————————————
+
+Prompt: Write a sentence expressing surprise.
+Token Length: 6
+TTFT: 0.139 s
+TPOT: 65.118 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\nThe above downloadable handout is meant for high school students, elementary school students and kindergartners and nursery school at Beginner (pre-A1) and Pre-intermediate (A2) level. It is a valuable material for revising Modals in English, that is used in English, as well as for working on your class members' Writing skills.\nCopyright License: This file is licensed by kate1989 under the iSLCollective Copyright License provided for non-commercial use only.\nUploaded on 09/01/2011 09:46:56 AM 1 comment:\nI'm really sorry for the delay in posting this morning. I've just returned from a 10-day vacation in the US. I'm back in the UK now, and I'm really missing the sun!\nI'm afraid I've not had time to prepare any new material"}]}
+
+————————————————————————————————————————
+
+Prompt: Sum up the following sentence in one word:
+He was sad because he could not get what he wanted.
+Token Length: 22
+TTFT: 0.088 s
+TPOT: 65.117 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA. He was sad.\nB. He was glad.\nC. He was sorry.\nD. He was happy.\nE. He was glad.\nF. He was sorry.\nG. He was happy.\nH. He was sorry.\nI. He was happy.\nJ. He was sorry.\nK. He was happy.\nL. He was sorry.\nM. He was happy.\nN. He was sorry.\nO. He was happy.\nP. He was sorry.\nQ. He was happy.\nR. He was sorry.\nS. He was happy.\nT. He was sorry.\nU. He was happy.\nV. He was sorry.\nW. He was happy.\nX. He was sorry.\nY. He was happy.\nZ. He was sorry.\nA. He was sad.\nB. He was sad.\nC. He'}]}
+
+————————————————————————————————————————
+
+Prompt: Write a story about a fox and a bear that become friends.
+Token Length: 13
+TTFT: 0.119 s
+TPOT: 65.120 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nOnce upon a time, there was a fox and a bear who lived in the woods. The fox was very nosey and nosey all the time. The bear was very grumpy and grumpy all the time.\nOne fine day, the fox was out and about, being nosey as usual, when he met the bear. The bear was out for a walk, grumpy as usual.\nThe fox was being nosey, as usual, and the bear was being grumpy, as usual. The fox was being nosey, and the bear was being grumpy.\nThe fox was being nosey, and the bear was being grumpy. The fox was being nosey, and the bear was being grumpy. The fox was being nosey, and the bear was being grumpy.\nThe fox was being nosey, and the bear was being grumpy. The fox was being nosey, and the bear was being grumpy. The fox was being'}]}
+
+————————————————————————————————————————
+
+Prompt: How would you correctly use the word "anonymity" in a sentence?
+Token Length: 16
+TTFT: 0.150 s
+TPOT: 65.116 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n"The Internet is a great place for people to have anonymity."\n"The Internet is a great place for people to have anonymity."\n- Home\n- Members\n- Testing\n- Reference\n- Articles\n- For Refining\n- Resources\n- Support\n- Advertising\nHow would you correctly use the word "anonymity" in a sentence?\n"The Internet is a great place for people to have anonymity."\n"The Internet is a great place for people to have anonymity."\nI\'m not sure if this is the right forum for this, but I\'m looking for a way to say "I\'m not sure if this is the right forum for this" in a way that sounds natural.\n"I\'m not sure if this is the right forum for this."\n"I\'m not sure if this is the right forum for this."\nI\'m not sure if this is the right forum for this.\nI\'m'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain the process of cellular respiration in plants.
+Token Length: 9
+TTFT: 0.130 s
+TPOT: 65.119 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nCellular Respiration in Plants\nCellular Respiration in Plants\nThe process of aerobic cellular respiration in plants is similar to that in animals. The overall equation for aerobic cellular respiration in plants is:\nC6H12O6 + 6O2 → 6CO2 + 6H2O + 38 ATP\nThe overall equation for anaerobic cellular respiration in plants is:\nC6H12O6 → 2C2H5OH + 2CO2 + 20 ATP\nThe overall equation for anaerobic cellular respiration in plants is:\nC6H12O6 → 2C2H5OH + 2CO2 + 20 ATP\nThe overall equation for anaerobic cellular respiration in plants is:\nC6H12O6 → 2C2H5OH + 2CO2 + 20 ATP\nThe overall equation'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a unique, five digit code.
+Token Length: 8
+TTFT: 0.099 s
+TPOT: 65.121 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe code must be a valid credit card number.\nThe first digit must be a 2, 4, 6, 8, or 9.\nThe last digit must be a 0, 1, 2, 3, 4, 5, 6, 7, 8, or 9.\nThe check digit must be a 0, 1, 2, 3, 4, 5, 6, 7, 8, or 9.\nThe Luhn algorithm must be used to validate the check digit.\nThe check digit must be a 0, 1, 2, 3, 4, 5, 6, 7, 8, or 9.\nThe credit card number must not be a valid American Express number.\nThe credit card number must not be a valid Discover number.\nThe credit card number must not be a valid Master'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a new document named "Blogs" and write a blog post on the following topic: How Can Self-Care Help Reduce Anxiety?
+Token Length: 28
+TTFT: 0.140 s
+TPOT: 65.118 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\n- 1. What is self-care?\n- 2. Why is self-care important?\n- 3. How can self-care help reduce anxiety?\n- 4. What are some examples of self-care activities?\n- 5. How can you make self-care a regular part of your routine?\n- 6. What are some tips for making self-care a priority?\n- 7. How can you tell if self-care is working for you?\n- 8. What are some common mistakes people make when it comes to self-care?\n- 9. How can you make self-care a sustainable part of your life?\n- 10. What are some resources on self-care and anxiety?\n- 11. Where can you go for help if you're struggling with anxiety?\n- 12. What are some things you can do to help a friend who"}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the reaction of a person receiving a surprise gift.
+Token Length: 11
+TTFT: 0.109 s
+TPOT: 65.119 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe person is surprised beyond belief. They are so happy that they can’t contain their emotions. They are so happy that they are about to cry. They are so happy that they are about to hug the person who gave them the gift. They are so happy that they are about to thank the person who gave them the gift. They are so happy that they are about to jump for joy. They are so happy that they are about to sing and dance. They are so happy that they are about to do a happy dance. They are so happy that they are about to do a little jig. They are so happy that they are about to do a little tap dance. They are so happy that they are about to do a little tap dance. They are so happy that they are about to do a little tap dance. They are so happy that they are about to do a little tap dance. They are so happy that they are about to do a little tap dance. They are so'}]}
+
+————————————————————————————————————————
+
+Prompt: Write a sentence that uses "enmity" in the correct context.
+Token Length: 15
+TTFT: 0.150 s
+TPOT: 65.125 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe word "enmity" is a noun that means "open ill will or active ill will."\nExample: The two countries could not stand each other\'s company, for they bore a deep-seated animosity.\nThe word "animosity" is a noun that means "animosity is a feeling of deep ill will and aversion usually resulting from arousing feelings of resentment, aversion, or antagonism, often for a prolonged period of time."\nExample: The two countries bore ill will to each other for a long time.\nThe word "aversion" is a noun that means "a feeling of strong disinclination or opposition, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing, loathing'}]}
+
+————————————————————————————————————————
+
+Prompt: Create an ad campaign slogan
+Token Length: 5
+TTFT: 0.118 s
+TPOT: 65.127 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' for a product that you would like to market.\nCreate a slogan for a product that you would like to market.\nThe slogan should be no more than 10 words long.\nThe slogan should be no more than 10 words long.\nCreate a slogan for a product that you would like to market.\nThe slogan should be no more than 10 words long.\nThe slogan should be no more than 10 words long.\nCreate a slogan for a product that you would like to market.\nThe slogan should be no more than 10 words long.\nThe slogan should be no more than 10 words long.\nCreate a slogan for a product that you would like to market.\nThe slogan should be no more than 10 words long.\nThe slogan should be no more than 10 words long.\nCreate a slogan for a product that you would like to market.\nThe slogan should be no more than'}]}
+
+————————————————————————————————————————
+
+Prompt: Find two facts related to the team of scientists that discovered the neutron in 1932.
+Token Length: 20
+TTFT: 0.136 s
+TPOT: 65.045 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1. The discovery of the neutron was a major breakthrough in the field of physics.\n2. The discovery of the neutron helped to explain the structure of the atom.\n3. The discovery of the neutron played a role in the development of nuclear weapons.\n4. The discovery of the neutron won its discoverers the Nobel Prize in Physics in 1935.\n5. The discovery of the neutron solved a long-standing mystery about the structure of the atom.\n6. The discovery of the neutron revolutionized our understanding of matter.\n7. The discovery of the neutron opened up new possibilities for the use of nuclear energy.\n8. The discovery of the neutron advanced our understanding of the fundamental forces at work in the universe.\n9. The discovery of the neutron improved our ability to study the structure of matter on an atomic and subatomic level.\n10. The discovery of the neutron advanced our understanding of the fundamental forces at work in the universe'}]}
+
+————————————————————————————————————————
+
+Prompt: Produce poetry about a summer day.
+Token Length: 8
+TTFT: 0.136 s
+TPOT: 65.058 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nSummer is a season of heat and light. It is a season of long, lazy, sunny days. It is a season of picnics and barbecues. It is a season of swimming and splashing. It is a season of going barefoot. It is a season of going to the beach. It is a season of going to the lake. It is a season of going to the pool. It is a season of going to the park. It is a season of going to the fair. It is a season of going to the carnival. It is a season of going to the festival. It is a season of going to the concert. It is a season of going to the festival. It is a season of going to the festival. It is a season of going to the festival. It is a season of going to the festival. It is a season of going to the festival. It is a season of going to the festival. It is a season of going to'}]}
+
+————————————————————————————————————————
+
+Prompt: Suggest a plan to join a fitness program.
+Token Length: 9
+TTFT: 0.137 s
+TPOT: 65.054 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way to get fit is to join a fitness program.\nThe best way'}]}
+
+————————————————————————————————————————
+
+Prompt: Write a paragraph that explains what a GPT language model is.
+Token Length: 12
+TTFT: 0.137 s
+TPOT: 65.056 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA GPT language model is a type of language model that is trained on a large corpus of text data. It is a type of language model that is used to generate natural language text.\nThe GPT language model is a type of language model that is used to generate natural language text. It is a type of language model that is used to generate text that is similar to the text that is found in a language model.\nThe GPT language model is a type of language model that is used to generate text that is similar to the text that is found in a language model. It is a type of language model that is used to generate text that is similar to the text that is found in a language model.\nThe GPT language model is a type of language model that is used to generate text that is similar to the text that is found in a language model. It is a type of language model that is used to generate text that is similar to the text that is found in a language model'}]}
+
+————————————————————————————————————————
+
+Prompt: Summarize how quantum computing works.
+Token Length: 8
+TTFT: 0.136 s
+TPOT: 65.044 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nQuantum computing is a type of computing that uses the principles of quantum mechanics to perform calculations. It is based on the idea that quantum particles, such as electrons, can exist in multiple states at the same time, a phenomenon known as quantum superposition. This allows quantum computers to process information in ways that are not possible with classical computers.\nQuantum computing is still in its early stages, and there are many challenges to overcome before it can reach its full potential. However, it has the potential to revolutionize many fields, from cryptography to materials science.\nQuantum computing is a type of computing that uses the principles of quantum mechanics to perform calculations. It is a type of computation that is thought to be able to solve certain problems that are thought to bedifficult or impossible to solve with classical computers.\nQuantum computing is based on the principles of quantum mechanics, which deals with the behavior of subatomic particles. Quantum computers use the principles of quantum mechanics to perform calculations that are thought to bediff'}]}
+
+————————————————————————————————————————
+
+Prompt: Plant a virtual virtual garden.
+Token Length: 6
+TTFT: 0.136 s
+TPOT: 64.841 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe Garden of Hope is a virtual garden that you can plant in your own home.\nIt’s a great way to get your kids excited about the outdoors and to help them learn about the natural world.\nThe garden is a great place for kids to learn about plants, animals, and the environment.\nThe garden is also a great place for kids and adults to connect with nature.\nThe garden is a great place for kids and adults alike to learn about the environment and the importance of caring for it.\nThe garden is a great place for kids and there are many ways that you can get involved.\nYou can plant a tree, plant a flower, or plant a small garden.\nYou can also plant a small patch of grass, or plant a small patchof grass in your yard.\nYou can also plant a small tree in your yard, or plant a small tree in your yard and watch it grow.\nYou can also plant a small garden in your yard'}]}
+
+————————————————————————————————————————
+
+Prompt: Identify the tone of this sentence: With the addition of this new technology, our company will reach new heights.
+Token Length: 22
+TTFT: 0.136 s
+TPOT: 64.807 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA. The writer is being sarcastic.\nB. The writer is being serious.\nC. The writer is being sarcastic.\nD. The writer is being serious.\nFrequently Asked Questions\nWhat are the 1000000 most used words?\nA: The 1000000 most used words are the most common words in the English language.\nWhat are the 1000000 most common words?\nA: The 1000000 most common words are the most used words in the English language.\nWhat are the 1000000 most common words in English?\nA: The 1000000 most common words in English are the most used words in the language.\nWhat are the 1000000 most common words in the English language?\nA: The 1000000 most'}]}
+
+————————————————————————————————————————
+
+Prompt: Brainstorm three ideas for a never-before-seen type of vending machine.
+Token Length: 16
+TTFT: 0.146 s
+TPOT: 64.762 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- A donut machine that makes fresh warm glazed donuts.\n- A cookie ice cream sundae machine.\n- A fresh fruit and vegetable stand.\nBrainstorm three ideas for a never-before-seen type of vending machine.\n- A donut machine that makes fresh warm glazed donuts.\n- A cookie ice cream sundae machine.\n- A fresh fruit and vegetable stand.\n- A hot dog and drink stand.\n- A hot pretzel and mustard stand.\n- A hot dog and drink stand.\n- A hot pretzel and mustard stand.\n- A hot dog and drink stand.\n- A hot pretzel and mustard stand.\n- A hot dog and drink stand.\n- A hot dog and drink stand.\n- A hot dog and drink stand.\n- A hot dog and drink stand.\n- A hot dog and drink stand.\n- A hot dog and drink stand.\n- A hot dog and'}]}
+
+————————————————————————————————————————
+
+Prompt: Suggest a healthy breakfast recipe for a busy morning.
+Token Length: 10
+TTFT: 0.144 s
+TPOT: 64.772 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI’m a busy mom of two little ones, so I’m always looking for quick and easy make-ahead recipes that the whole family will love.\nI’ve been on a big overnight oats kick lately, and I’m always on the lookout for new flavor combinations to try.\nI’m always looking for new ideas for quick and easy make-ahead breakfasts that the whole family will love.\nI’m always on the lookout for new make-ahead freezer recipes that are both healthy and delicious.\nI’m always on the lookout for new make-ahead freezer recipes that are both healthy and delicious.\nI’m always on the lookout for new make-ahead freezer recipes that are both healthy and delicious.\nI’m always on the lookout for new make-ahead freezer recipes that are both healthy and delicious.\nI’m always on the lookout for new make-ahead freezer recipes that are both healthy and delicious.\nI’m'}]}
+
+————————————————————————————————————————
+
+Prompt: Rewrite the following sentence using a pronoun: She is my friend so she can stay with me.
+Token Length: 19
+TTFT: 0.147 s
+TPOT: 64.757 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nRewrite the following sentence using a pronoun: She is my friend so she can stay with me.\nAnswer: She is my friend, so she can stay with me.\nThe sentence is a complex sentence.\nThe sentence is a complex sentence.\nWhat is the correct sentence?\nThe correct sentence is: “She is my friend, so she can stay with me.”\nThe sentence is a complex sentence because it has an independent clause (“She is my friend”) and a dependent clause (“so she can stay with me”).\nThe dependent clause is a subordinate clause because it depends on the independent clause for its meaning.\nThe subordinate clause is a type of clause called a clause that can function as any part of speech, including a noun, adjective, or adverb.\nIn this case, the subordinate clause is functioning as an adverb.\nAdverbs modify verbs, adjectives, or other adverbs.\nIn this case, the adverb modifies the verb '}]}
+
+————————————————————————————————————————
+
+Prompt: Come up with a funny animal meme.
+Token Length: 8
+TTFT: 0.161 s
+TPOT: 64.687 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI\'m not sure if this is a meme or not, but I\'ve been seeing it a lot on Facebook.\nIt\'s a picture of a cat with a caption that says something like "I\'m not fat, I\'m just a really good cuddle-bug."\nI\'m not sure what the appeal is, but I\'ve seen a lot of people using it.\nI\'m not sure if it\'s a meme or not, but I\'ve seen a lot of people using it.\nI\'m not sure if it\'s a meme or not, but I\'ve seen a lot of people\nusing it.\nI\'m not sure if it\'s a meme or not, but I\'ve seen a lot\nof people using it.\nI\'m not sure if it\'s a meme or not, but I\'ve seen a lot\nof people\nI\'m not sure if it'}]}
+
+————————————————————————————————————————
+
+Prompt: What is the maximum size of the input for language models?
+Token Length: 12
+TTFT: 0.174 s
+TPOT: 64.617 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\nA language model is a statistical model that predicts the probability of a sequence of words given some context. The maximum input size for a language model depends on the model architecture and the hardware being used.\n\nFor example, a language model based on LSTMs (Long Short-Term Memory) can have a maximum input size of around 1000 words. This is because LSTMs have a hidden state that can store a fixed-size vector of values, and the size of this vector is typically around 1000.\n\nHowever, a language model based on LSTMs can be parallelized such that multiple time steps can be processed in parallel. This allows for a much larger input size to be processed. For example, a language model based on LSTMs can be parallelized such that 10,000 time steps can be processed in parallel.\n\nIn conclusion, the maximum input size for a language model depends on the model'}]}
+
+————————————————————————————————————————
+
+Prompt: Name a Spanish-speaking city
+Token Length: 6
+TTFT: 0.172 s
+TPOT: 64.613 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' that you’d like to visit.\nI’ve wanted to go to Spain for a long long time. I’ve wanted to go to the South of Spain, Andalucia, for a long long time. I’ve wanted to go to the South of Spain, Andalucia, for a long time.\nI’ve wanted to go to the South of Spain, Andalucia, for a long time.\nI’ve always wanted to go to the South of Spain, Andalucia, for a long time.\nI’ve always wanted to go to the South of Spain, Andalucia, for a long time.\nI’ve always wanted to go to the South of Spain, Andalucia, for a long time.\nI’ve always wanted to go to the South of Spain, Andalucia, for a long time.\nI’ve always wanted to go to the South of Spain'}]}
+
+————————————————————————————————————————
+
+Prompt: Design an algorithm to detect fake news in articles.
+Token Length: 10
+TTFT: 0.172 s
+TPOT: 64.622 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe input to your algorithm is a list of articles, and each article is a pair of strings:\n- The headline of the article\n- The body of the article\n- The body of the article is the text of the article.\n- The headline of the article is the title of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n- The headline of the article is the first line of the article.\n-'}]}
+
+————————————————————————————————————————
+
+Prompt: Compose a list of five positive effects of technology on education.
+Token Length: 13
+TTFT: 0.163 s
+TPOT: 64.595 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- erskine\n- 10 years ago\n- Views:\n1 Compose a list of five positive effects of technology on education.\n2 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44'}]}
+
+————————————————————————————————————————
+
+Prompt: How would you order a cup of coffee in German?
+Token Length: 11
+TTFT: 0.163 s
+TPOT: 64.596 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nHow would you order a cappuccino in German?\nHow would you order a cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say cappuccino in German?\nHow do you say c'}]}
+
+————————————————————————————————————————
+
+Prompt: Write a story about a young girl who gets lost in the forest.
+Token Length: 14
+TTFT: 0.149 s
+TPOT: 64.599 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe girl is lost in the forest. She is scared and alone. She does not know what to do. She does not know what will become of her. She does not know if anyone will ever fine her. She does not know if anyone will ever miss her. She does not know if anyone will ever care. She does not know if anyone will ever find here. She does not know if anyone will ever save her. She does not know if anyone will ever love her. She does not know if anyone will ever forgive her. She does not know if anyone will ever forget her. She does not know if anyone will ever forgive here. She does not know if anyone will ever love her. She does not know if anyone will ever forgive her. She does not know if anyone will ever forget her. She does not know if anyone will ever forgive her. She does not know if anyone will ever love her. She does not know if anyone will ever forgive her. She does not'}]}
+
+————————————————————————————————————————
+
+Prompt: Compose a tweet of 140 characters or less on the topic of online security.
+Token Length: 19
+TTFT: 0.143 s
+TPOT: 64.612 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe tweet must include the hashtag #CyberSecurityAwareness.\nThe tweet must be original and not copied from another source.\nThe tweet must be in keeping with the theme of the contest.\nThe tweet must be in keeping with the rules of the contest.\nThe tweet must be in keeping with the terms and conditions of the contest.\nThe tweet must not contain any offensive or inappropriate language.\nThe tweet must not contain any links to third-party websites.\nThe tweet must not contain any contact information.\nThe tweet must not contain any personal information about the user.\nThe tweet must not contain any links to other tweets.\nThe tweet must not contain any links to other websites.\nThe tweet must not contain any links to other social media platforms.\nThe tweet must not contain any links to other online services.\nThe tweet must not contain any links to other online communities.\nThe tweet must not contain any links to other online forums.\nThe tweet'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a list of potential titles for a blog post about remote work
+Token Length: 13
+TTFT: 0.145 s
+TPOT: 64.613 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\n\n1. The Pros and Cons of Working Remotely\n2. How to Be Productive While Working Remotely\n3. The Future of Work: How Technology is Changing the Way We Work\n4. The Surprising Benefits of Working Remotely\n5. How to Overcome Isolation When Working Remotely\n6. The Importance of Maintaining Work-Life Balance When Working Remotely\n7. The Pros and Cons of Working Remotely\n8. How to Be Productive While Working Remotely\n9. The Future of Work: How Technology is Changing the Way We Work\n10. The Surprising Benefits of Working Remotely\n11. How to Overcome Isolation When Working Remotely\n12. The Importance of Maintaining Work-Life Balance When Working Remotely\n13. The Pros and Cons of Working Remotely\n14. How to Be Productive While Working Rem'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain the meaning of the proverb "If a job is worth doing, it's worth doing well."
+Token Length: 21
+TTFT: 0.146 s
+TPOT: 64.600 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe proverb "If a job is worth doing, it\'s worth doing well" means that if a task or job is important enough to be done at all, then it is important enough to do well.\n- Home\n- Members\n- Testing\n- Reference\n- Articles\n- Class-inmates\n- Programming\n- For Teachers\n- Become a Tutor\n- Scholarships\n\n## Explain the meaning of the proverb "If a job is worth doing, it\'s worth doing well."\nThe proverb "If a job is worth doing, it\'s worth doing well" means that if a task or job is important enough to be done at all, then it is important enough to do well.\n- 1 following\n- 149 149 plays\n- 149 questions 149 questions\n- 149 thankers 149 thankers\n- 149 149'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a story combining the following words: lemon, whale, and butterfly.
+Token Length: 15
+TTFT: 0.147 s
+TPOT: 64.593 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe lemon whale flapped its flippers through the air, sending a spray of water high into the sky. The butterfly fluttered through the air, its wings beating so fast they were a blur. The lemon whale breached the surface of the water, sending a spray of water high into the air. The butterfly fluttered through the air, its wings leaving a trail of glittering stardust in its path. The lemon whale breached the surface of the water once more, sending a spray of water high into the air. The butterfly fluttered through the air, its wings leaving a trail of glittering stardust in its path. The lemon whale breached the surface of the water once more, sending a spray of water high into the air. The butterfly fluttered through the air, its wings leaving a trail of glittering stardust in its path. The lemon whale breached the surface of the water once more, sending a spray of water high into the air. The butterfly fl'}]}
+
+————————————————————————————————————————
+
+Prompt: Convert 3 hours to minutes.
+Token Length: 7
+TTFT: 0.147 s
+TPOT: 64.598 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n3 hours = 180 minutes\n\n## Algebra\n 20,438,222\n\n## Add your answer:\n imp \n\n## How many minutes are in 3 hours and 45 minutes?\n225 minutes\n\n## How many minutes are in 3 hours and 15 minutes?\n195 minutes\n\n## How many minutes are in 3 hours and 30 minutes?\n195 minutes\n\n## How many minutes are in 3 hours and 20 minutes?\n1920 minutes\n\n## How many minutes are in 3 hours and 10 minutes?\n190 minutes\n\n## How many minutes are in 3 hours and 40 minutes?\n180 minutes\n\n## How many minutes are in 3 hours and 50 minutes?\n170 minutes\n\n## How many minutes are in 3'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the best way to conduct an interview.
+Token Length: 9
+TTFT: 0.147 s
+TPOT: 64.595 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe best way to conduct an interview is to be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural as possible.\nThe interviewer should be as natural'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the components of a persuasive essay.
+Token Length: 8
+TTFT: 0.147 s
+TPOT: 64.600 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:\nThesis statement:'}]}
+
+————————————————————————————————————————
+
+Prompt: What is a key lesson for modern sales processes?
+Token Length: 10
+TTFT: 0.145 s
+TPOT: 64.601 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe modern sales process is all about building relationships and trust. It’s about understanding your customer and what they need, and then being able to provide them with a solution that more than meets their needs.\nThe modern sales process is all about building relationships and trust. It’s about understanding your customer and what they need, and then being able to provide them with a solution that more than meets their needs.\nThe modern sales process is all about building relationships and trust. It’s about understanding your customer and what they need, and then being able to provide them with a solution that more than meets their needs.\nThe modern sales process is all about building relationships and trust. It’s about understanding your customer and what they need, and then being able to provide them with a solution that more than meets their needs.\nThe modern sales process is all about building relationships and trust. It’s about understanding your customer and what they need, and then being able to provide them'}]}
+
+————————————————————————————————————————
+
+Prompt: What type of relationship exists between voltage and current in an electric circuit?
+Token Length: 14
+TTFT: 0.146 s
+TPOT: 64.603 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nWhat type of relationship exists between voltage and current in an electric circuit?\nOhm’s law states that the current through a conductor between two points is directly proportional to the potential difference across the two points.\nWhat is the relationship between voltage and current in a series?\nVoltage is the potential difference between two points. Current is the rate at which charge is moving past a point. The potential difference between two points is equal to the work done per unit charge.\nWhat is the relationship between voltage and current in a series?\nWhat is the relationship between voltage and current in a series?\nWhat is the relationship between voltage and current in a series?\nWhat is the relationship between voltage and current in a series?\nWhat is the relationship between voltage and current in a series?\nWhat is the relationship between voltage and current in a series?\nWhat is the relationship between voltage and current in a series?\nWhat is the relationship between voltage and current in a series?\nWhat'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a function to check whether a binary tree is balanced or not.
+Token Length: 14
+TTFT: 0.146 s
+TPOT: 64.605 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\n\nA binary tree is said to bedesigned well if the following two conditions are met:\n\n- The left subtree of the node has a height of at most 1 more than the node's own height.\n- The right subtree of the node has a height of at most 1 more than the node's own height.\n\nThe height of a node is the number of edges from the node to the root node.\n\nExample 1:\n\nInput: [1,2,2,3,3,null,null,4,4]\n\nOutput: true\n\nExample 2:\n\nInput: [1,2,2,3,3,null,null,4,4]\n\nOutput: false\n\nExample 3:\n\nInput: [1,2,2,3,3,null,null,4,4]\n\nOutput: false\n\nConstraints:\n\n-"}]}
+
+————————————————————————————————————————
+
+Prompt: Speculate on how artificial intelligence will change the social landscape
+Token Length: 11
+TTFT: 0.145 s
+TPOT: 64.606 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nArtificial intelligence (AI) is a field of computer science that deals with imbuing machines with the ability to reason, learn, and act rationally. AI is a branch of computer science that deals with imbuing machines with the ability to reason, learn, and act rationally.\nArtificial intelligence (AI) is a branch of computer science that deals with imbuing machines with the ability to reason, learn, and act rationally.\nArtificial intelligence (AI) is a branch of computer science that deals with imbuing machines with the ability to reason, learn, and act rationally.\nArtificial intelligence (AI) is a branch of computer science that deals with imbuing machines with the ability to reason, learn, and act rationally.\nArtificial intelligence (AI) is a branch of computer science that deals with imbuing machines with the ability to reason, learn, and act rationally.\nArtificial intelligence (AI)'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a list of tasks that should be done to prepare for a long camping trip.
+Token Length: 17
+TTFT: 0.144 s
+TPOT: 64.623 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- 1. Buy food and drinks\n- 2. Buy fuel canisters\n- 3. Buy fuel\n- 4. Buy fueling can\n- 5. Buy fueling funnel\n- 6. Buy fueling funnel\n- 7. Buy fuel can\n- 8. Buy fuel can\n- 9. Buy fuel can\n- 10. Buy fuel can\n- 11. Buy fuel can\n- 12. Buy fuel can\n- 13. Buy fuel can\n- 14. Buy fuel can\n- 15. Buy fuel can\n- 16. Buy fuel can\n- 17. Buy fuel can\n- 18. Buy fuel can\n- 19. Buy fuel can\n- 20. Buy fuel can\n- 21. Buy fuel can\n- 22. Buy fuel can\n- 23. Buy'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain why plants are essential for life.
+Token Length: 8
+TTFT: 0.143 s
+TPOT: 64.622 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nPlants are essential for life because they are the producers in the food chain. They are the producers because they are the autotrophs. They are the autotrophs because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are the producers. They are the producers because they are'}]}
+
+————————————————————————————————————————
+
+Prompt: Construct a dialogue between two characters.
+Token Length: 7
+TTFT: 0.142 s
+TPOT: 64.633 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA: I’m so fed up with my boss.\nB: What’s up?\nA: He’s always on my back.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s he like?\nA: He’s a bully.\nB: What’s'}]}
+
+————————————————————————————————————————
+
+Prompt: Name four different kinds of trees
+Token Length: 6
+TTFT: 0.141 s
+TPOT: 64.635 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees.\nName four different kinds of trees'}]}
+
+————————————————————————————————————————
+
+Prompt: Write down the synonyms for "abrupt".
+Token Length: 9
+TTFT: 0.144 s
+TPOT: 64.280 ms
+Output Tokens: 33
+Response: {'choices': [{'text': '\nThe above downloadable printable is meant for high school students, elementary school students and adults at Pre-intermediate (A2) and Pre-intermediate (A2)'}]}
+
+————————————————————————————————————————
+
+Prompt: Design a meal plan for someone following a vegan diet.
+Token Length: 11
+TTFT: 0.137 s
+TPOT: 64.904 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- A vegan diet is a diet that excludes meat, eggs, dairy products, by-products of animal origin, and by-products of animal origin.\n- A well-planned vegan diet is rich in essential nutrients, including protein, iron, vitamin B12, vitamin D, and omega-3 fatty acids.\n- A well-planned plant-based diet can help lower the risk of heart disease, type 2 diabetes, and some types of cancer.\n- A well-planned plant-based diet can help lower the risk of heart disease, type 2 diabetes, and some types of cancer.\n- A well-planned plant-based diet can help lower the risk of heart disease, type 2 diabetes, and some types of cancer.\n- A well-planned plant-based diet can help lower the risk of heart disease, type 2 diabetes, and some types of cancer.\n- A well-planned plant-based diet can help lower the'}]}
+
+————————————————————————————————————————
+
+Prompt: Write 50 words about a family trip to the beach.
+Token Length: 13
+TTFT: 0.135 s
+TPOT: 64.954 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 50 words about a family trip to the beach.\nWrite 5'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain what an AI-driven chatbot is
+Token Length: 9
+TTFT: 0.137 s
+TPOT: 64.974 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' and how it can be used in customer service.\nAn AI-driven chatbot is a software application that uses artificial intelligence (AI) and natural language processing (NLP) to simulate human conversation. It can be used to automate customer service and other knowledge-based functions, allowing businesses to provide faster and more efficient customer service.\nExplain the benefits of using an AI-driven chatbot for customer service.\nUsing an AI-driven chatbot for customer service has a number of benefits. It can help to reduce the amount of time it takes to resolve customer queries, as the chatbot can provide answers to many common questions quickly and easily. It can also help to improve customer satisfaction, as customers can get the answers they need quickly and with minimal effort. Additionally, it can free up customer-facing staff to focus on more complex queries, allowing them to provide a higher level of service.\nDiscuss the different types of AI-driven chatbots available.\nThere are a variety'}]}
+
+————————————————————————————————————————
+
+Prompt: Construct a query to return the top 10 most expensive books sold in an Amazon store.
+Token Length: 19
+TTFT: 0.136 s
+TPOT: 64.990 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;\n\nSELECT title, price\nFROM books\nORDER BY price DESC\nLIMIT 10;'}]}
+
+————————————————————————————————————————
+
+Prompt: Write Levenshtein distance in c++. 
+Token Length: 10
+TTFT: 0.143 s
+TPOT: 65.043 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '– 2017-05-02 16:45:56\nWrite Levenshtein distance in c++. – 2017-05-02 16:45:56\nWrite Levenshtein distance in c++. – 2017-05-02 16:45:56\nWrite Levenshtein distance in c++. – 2017-05-02 16:45:56\nWrite Levenshtein distance in c++. – 2017-05-02 16:45:56\nWrite Levenshtein distance in c++. – 2017-05-02 16:45:56\nWrite Levenshtein distance in c++. – 2017-0'}]}
+
+————————————————————————————————————————
+
+Prompt: List three food sources of Omega-3 fatty acids.
+Token Length: 11
+TTFT: 0.137 s
+TPOT: 65.561 ms
+Output Tokens: 164
+Response: {'choices': [{'text': '\nList three food sources of Omega-3 fatty acids.\nAnswer to relevant QuestionsName three nutrients that are not found in plant-based foods. What are the functions of these three nutrients? What are the functions of the following nutrients? a. Carbohydrates b. Fats c. Proteins d. Vitamins e. Minerals f. Water g. Fiber h. Alcohol i. Phosphorus j. Calcium k. Iron l. ...What is the difference between a food guide and a food pyramid? What are the advantages of a food guide? What are the advantages of a food pyramid? What are the disadvantages of a food pyramid? What are the disadvantages of a food guide? What are the advantages of a food pyramid? What are the advantages of a food guide?\nPost your question'}]}
+
+————————————————————————————————————————
+
+Prompt: Draft a letter expressing appreciation to someone who helped you in a difficult situation.
+Token Length: 15
+TTFT: 0.135 s
+TPOT: 65.116 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nDear Mr. Smith,\nI am writing to express my sincerest thanks for all the help you gave me when I really needed it. I know that I was going through a very difficult time, and I did not know what to do. You not only gave me the strength to go on, but you also gave me the hope that better days were ahead.\nI know that I was not the only one who needed your help, but you still managed to find the time to help me. You did not have to do what you did, but you still managed to put your own problems aside and help me. I know that I was not the only one who needed your help, but you still managed to find the time to help me.\nI know that I was not the only one who needed your help, but you still managed to find the time to help me. You not only gave me the strength to go on, but you also gave me the hope that better days were'}]}
+
+————————————————————————————————————————
+
+Prompt: What is the relationship between climate change and ocean acidification?
+Token Length: 12
+TTFT: 0.144 s
+TPOT: 65.063 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nOcean acidification is a direct result of rising atmospheric carbon dioxide (CO2) concentrations. Ocean acidification is the ongoing decrease in pH of the Earth’s oceans, which has an impact on the ability of these ecosystems to support a diverse array of marine life.\nOcean acidification is a direct result of rising atmospheric carbon dioxide (CO2) concentrations. Ocean acidification is the ongoing decrease in pH of the Earth’s oceans, which has an impact on the ability of these ecosystems to support a diverse array of marine life.\nOcean acidification is a direct result of rising atmospheric carbon dioxide (CO2) concentrations. Ocean acidification is the ongoing decrease in pH of the Earth’s oceans, which has an impact on the ability of these ecosystems to support a diverse array of marine life.\nOcean acidification is a direct result of rising atmospheric carbon dioxide (CO2) concentrations. Ocean acidification is the ongoing decrease in pH of the Earth’s oceans, which has an'}]}
+
+————————————————————————————————————————
+
+Prompt: What characteristics make a movie a romantic comedy?
+Token Length: 9
+TTFT: 0.144 s
+TPOT: 65.025 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nRomantic Comedies are a sub-genre of romantic movies that focus on the development of a romantic relationship between two people. The main plot of the film is usually about the development of the relationship between the two main characters.\nWhat is the difference between a romantic comedy and a romantic movie?\nRomantic Comedies are a sub-genre of romantic movies that focus on the development of a romantic relationship between two people. The main plot of the film is usually about the development of the relationship between the two main characters.\nWhat is the difference between a romantic movie and a romantic drama?\nRomantic Comedies are a sub-genre of romantic movies that focus on the development of a romantic relationship between two people. The main plot of the film is usually about the development of the relationship between the two main characters.\nWhat is the difference between a romantic movie and a romantic drama?\nRomantic Comedies are a sub-genre of romantic movies that focus on'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the process of readjusting to civilian life after a period of military service.
+Token Length: 17
+TTFT: 0.146 s
+TPOT: 65.014 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI had a very good experience with the GI Bill. I used it to go to college. I got a degree in business. I used it to go to law school. I used it to buy a practice. I used it to buy a house. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to buy a practice. I used it to'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a list of tech companies in San Francisco.
+Token Length: 10
+TTFT: 0.145 s
+TPOT: 65.023 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nBudget $10-30 USD\nI need a list of tech companies in San Francisco.\nI need the company name, address, phone number, and email address.\nI need the list in an excel file.\nI need the list in 30 minutes.\nAwarded to:\nHi, I am interested in your project. I have a good experience in data entry. I have done this type of jobs many t times. I will do your job with full satisfaction. I have done many projects like this. I can provi More\n10 freelancers are bidding on average $22 for this job\nHi, I am interested in your project. I have been doing data entry for the last 4 years. I have used excel, word, and notepad. I have also done data entry for a company in the UK. I have also done data entry for a comp More\nHi, I am interested in your project. I have a'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a rap verse about algorithms.
+Token Length: 7
+TTFT: 0.145 s
+TPOT: 65.018 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI’m working on a project about algorithms. I’m trying to create a rap verse about it. I’m looking for a beat that I can freestyle over. I’m looking for a beat that’s kind of dark and eerie. I’m looking for a beat that’s kind of eerie and dark. I’m looking for a beat that’s kind of dark and eerie. I’m looking for a beat that’s kind of eerie and dark. I’m looking for a beat that’s kind of dark and eerie. I’m looking for a beat that’s kind of eerie and dark. I’m looking for a beat that’s kind of dark and eerie. I’m looking for a beat that’s kind of eerie and dark. I’m looking for a beat that’s kind of dark and eerie. I’m looking for a beat that’s'}]}
+
+————————————————————————————————————————
+
+Prompt: Name three traits that make a good leader.
+Token Length: 9
+TTFT: 0.142 s
+TPOT: 65.021 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA good leader is a person who is able to motivate and inspire others to achieve a common goal. They are also able to make decisions in a timely and effective manner.\nWhat are the 10 qualities of a good leader?\nThere are many different leadership styles, and which one is best for a given situation will depend on the situation. However, there are some common characteristics that all good leaders share.\n1. They are good listeners.\n2. They are good at communicating.\n3. They are good at motivating others.\n4. They are good at making decisions.\n5. They are good at delegating tasks.\n6. They are good at building relationships.\n7. They are good at being organized.\n8. They are good at being empathetic.\n9. They are good at being self-aware.\n10. They are good at being resilient.\nWhat are the 5 qualities of a good leader?\nThere'}]}
+
+————————————————————————————————————————
+
+Prompt: If you were to receive one extra hour of free time in the day, what would you do?
+Token Length: 20
+TTFT: 0.143 s
+TPOT: 65.021 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI’d like to think I’d use it productively, but I’d probably just watch another rerun of Friends reruns.\nWhat is the last thing you do before you go to bed at night?\nI check my phone to make sure I’ve charged it.\nWhat is the last thing you do before you leave the house?\nI check my phone to make sure I’ve charged it.\nWhat is the last thing you do before you leave the house?\nI check my phone to make sure I’ve charged it.\nWhat is the last thing you do before you leave the house?\nI check my phone to make sure I’ve charged it.\nWhat is the last thing you do before you leave the house?\nI check my phone to make sure I’ve charged it.\nWhat is the last thing you do before you leave the house?\nI check my phone to make sure I’ve charged it.'}]}
+
+————————————————————————————————————————
+
+Prompt: What is the most common shopping cart abandonment reason?
+Token Length: 10
+TTFT: 0.147 s
+TPOT: 65.012 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being ready to buy.\nThe most common reason for cart abandonment is the consumer not being'}]}
+
+————————————————————————————————————————
+
+Prompt: Give a short overview of the DREAM act.
+Token Length: 10
+TTFT: 0.146 s
+TPOT: 65.014 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe Development, Relief, and Education for Alien Minors (DREAM) Act is a piece of legislation that was introduced in 2001 to provide a path to citizenship for undocumented immigrants who were brought to the United States as children. The DREAM Act faced an uphill battle in Congress for years, but found new life in 2010 when the DREAM Act found its way into the “Build Back Better” plan.\nThe DREAM Act is a bipartisan bill that would provide a path to citizenship for undocumented immigrants who were brought to the United States as children. The DREAM Act is supported by a majority of Americans, including a majority of Republicans.\nThe DREAM Act is an important piece of legislation that would have a positive impact on our country. It is a shame that it did not become law.\nWhat is the DREAM Act?\nThe Development, Relief, and Education for Alien Minors (DREAM) Act is a piece of'}]}
+
+————————————————————————————————————————
+
+Prompt: What would be the best way to arrange a virtual meeting for my company?
+Token Length: 15
+TTFT: 0.145 s
+TPOT: 65.021 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\nI'm new to the virtual world and I've been asked to arrange a virtual get-together for my company. I've never done anything like this before, so I'm not sure where to start. What's the best way to go about this?\n- 11th Jun 2008\n- 10299\n- 17\nWhat is the best way to get my company's name out there?\nI'm the new Community Manager for my company and I'm being asked to get the word out about our business. I'm not sure how to go about this. What's the best way to get our name out there?\n- 11th Jun 2008\n- 10299\n- 17\nWhat's the best way to get my company's name out there?\nI'm the new Community Manager for my"}]}
+
+————————————————————————————————————————
+
+Prompt: Identify the type of the function y = x^2 + 3
+Token Length: 14
+TTFT: 0.145 s
+TPOT: 65.015 ms
+Output Tokens: 200
+Response: {'choices': [{'text': 'x – 18\n\nIdentify the type of the function y = x^2 + 3x – 18\n\nA. Linear\n\nB. Quadratic\n\nC. Cubic\n\nD. Quartic\n\n1. The function y = x^2 + 3x – 18 is a quadratic function.\n\n2. The function y = x^2 + 3x – 18 is a cubic function.\n\n3. The function y = x^2 + 3x – 18 is a quartic function.\n\n4. The function y = x^2 + 3x – 18 is a quintic function.\n\n5. The function y = x^2 + 3x – 18 is a sextic function.\n\n6. The function y = x^2 + 3x – 18 is a'}]}
+
+————————————————————————————————————————
+
+Prompt: Brainstorm two potential slogans for a grocery store.
+Token Length: 11
+TTFT: 0.144 s
+TPOT: 65.020 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1. “We’ve got what you’re looking for.”\n2. “We’ve GOT it all.”\n3. “We’ve GOT it all.”\n4. “We’ve GOT it all.”\n5. “We’ve GOT it all.”\n6. “We’ve GOT it all.”\n7. “We’ve GOT it all.”\n8. “We’ve GOT it all.”\n9. “We’ve GOT it all.”\n10. “We’ve GOT it all.”\n11. “We’ve GOT it all.”\n12. “We’ve GOT it all.”\n13. “We’ve GOT it all.”\n14. “We’ve GOT'}]}
+
+————————————————————————————————————————
+
+Prompt: Suggest some alternatives to processed foods.
+Token Length: 7
+TTFT: 0.147 s
+TPOT: 65.006 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\nI'm not sure what you mean by processed foods.\nI've been on a low-carb, high-fat, moderate-protein way of eating for about 2.5 years now. I've lost about 20 pounds and kept it off. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8. I've gone from a size 14 to a size 8"}]}
+
+————————————————————————————————————————
+
+Prompt: Suggest a way to make physical activity a part of your daily routine.
+Token Length: 14
+TTFT: 0.146 s
+TPOT: 65.007 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI\'m not sure if this is the right forum, but I\'ve been trying to get into shape for a while now, and I\'m not having much sucess. I\'m 5\'10" and weigh 210 lbs. I\'m not sure how much I should weigh, but I\'m pretty sure I\'m over weight. I\'m not sure how to get started, but I\'m pretty sure I\'m not doing enough. I\'m not sure what I should be doing, but I\'m pretty sure I\'m not doing enough. I\'m not sure what I should be eating, but I\'m pretty sure I\'m not eating enough. I\'m not sure what I should be taking, but I\'m pretty sure I\'m not taking enough. I\'m not sure what I should be taking, but I\'m pretty sure I\'m not taking enough. I\'m'}]}
+
+————————————————————————————————————————
+
+Prompt: Which chess piece moves in an "L" shape?
+Token Length: 11
+TTFT: 0.147 s
+TPOT: 65.005 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe bishop.\nThe knight.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.\nThe king.\nThe queen.'}]}
+
+————————————————————————————————————————
+
+Prompt: Please suggest a healthy diet plan for someone who is looking to lose weight.
+Token Length: 15
+TTFT: 0.146 s
+TPOT: 65.332 ms
+Output Tokens: 199
+Response: {'choices': [{'text': '\nByee bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye bye belly fat!\nBye'}]}
+
+————————————————————————————————————————
+
+Prompt: Name five skills that are important for a software engineer.
+Token Length: 11
+TTFT: 0.146 s
+TPOT: 65.000 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- Problem-solving skills\n- Critical thinking\n- Ability to work in a team\n- Ability to work under pressure\n- Ability to work with deadlines\n- Ability to work with a minimum of supervision\n- Ability to work with a minimum of direction\n- Ability to work with a minimum of guidance\n- Ability to work with a minimum of instruction\n- Ability to work with a minimum of training\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand-holding\n- Ability to work with a minimum of hand'}]}
+
+————————————————————————————————————————
+
+Prompt: Write a SQL query that returns the top 10 customers by total spent
+Token Length: 15
+TTFT: 0.145 s
+TPOT: 64.998 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\n\nThe top 10 customers by total spent is a common requirement in many business scenarios. For example, a retail store may want to identify the top 10 customers who have made the most purchases, in terms of the total amount spent. This information can be used to better understand customer behavior and preferences, and to tailor marketing and sales strategies to better serve those customers.\n\nIn this article, we will explore how to write a SQL query that returns the top 10 customers by total spent. We will use the AdventureWorks2019 sample database, which is a superset of the AdventureWorks sample database that ships with SQL Server.\n\nThe AdventureWorks2019 sample database contains a variety of tables that represent different business entities and activities. The following are the tables that we will use in this article:\n\n* CustomerDemographics: This table contains information about the different types of customers, such as title, name, and gender.\n'}]}
+
+————————————————————————————————————————
+
+Prompt: Is the following statement true or false? One day has 24 hours
+Token Length: 15
+TTFT: 0.147 s
+TPOT: 65.001 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nThe answer is true.\nThe answer is true.\nPeople are more likely to believe something that is true.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe something that is true.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe something that is true.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe something that is true.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe something that is true.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe something that is true.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe something that is true.\nPeople are more likely to believe something that is false.\nPeople are more likely to believe'}]}
+
+————————————————————————————————————————
+
+Prompt: Transcribe the following sounds:
+Token Length: 6
+TTFT: 0.148 s
+TPOT: 64.989 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n-'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a tag line for a comic book series.
+Token Length: 10
+TTFT: 0.149 s
+TPOT: 64.988 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nCreate a tag line for a TV sitcom.\nCreate a tag line for a sitcom pilot.\nCreate a tag line for a sitcom pilot treatment.\nCreate a tag line for a sitcom pilot treatment treatment.\nCreate a tag line for a sitcom pilot treatment treatment treatment.\nCreate a tag line for a sitcom pilot treatment treatment treatment treatment.\nCreate a tag line for a sitcom pilot treatment treatment treatment treatment treatment treatment.\nCreate a tag line for a sitcom pilot treatment treatment treatment treatment treatment treatment treatment treatment.\nCreate a tag line for a sitcom pilot treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment treatment'}]}
+
+————————————————————————————————————————
+
+Prompt: Find the number of students in Maths 101.
+Token Length: 13
+TTFT: 0.145 s
+TPOT: 65.044 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\nThe number of students in Maths 101 is 100.\n\nThe number of students in Maths 102 is 100.\n\nThe number of students in Maths 103 is 100.\n\nThe number of students in Maths 104 is 100.\n\nThe number of students in Maths 105 is 100.\n\nThe number of students in Maths 106 is 100.\n\nThe number of students in Maths 107 is 100.\n\nThe number of students in Maths 108 is 100.\n\nThe number of students in Maths 109 is 100.\n\nThe number of students in Maths 110 is 100.\n\nThe number of students in Maths '}]}
+
+————————————————————————————————————————
+
+Prompt: Please provide the suffix of the word 'helpful'.
+Token Length: 10
+TTFT: 0.146 s
+TPOT: 65.045 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\nThe suffix of the word 'helpful' is -ful.\nPlease provide the suffix of the word 'helpful'.\nThe suffix of the word 'helpful' is -ful.\nThe suffixes of the word 'helpful' are -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful, -ful"}]}
+
+————————————————————————————————————————
+
+Prompt: Find two examples of healthy eating habits
+Token Length: 7
+TTFT: 0.145 s
+TPOT: 65.049 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' that you can start incorporating into your life.\n1. Eat a healthy breakfast every day.\n2. Drink plenty of water.\n3. Snack on raw vegetables and hummus.\n4. Cook at home as often as possible.\n5. Avoid processed and fast foods.\n6. Eat a balanced diet that includes lean proteins, complex carbohydrates, healthy fats, and plenty of produce.\n7. Limit your added sugar and unhealthy fat intake.\n8. Stay active and exercise most days of the week.\n9. Get enough sleep mostnights.\n10. Manage your stress levels by practicing relaxation techniques such as yoga or meditation.\n11. Avoid smoking and limit your alcohol consumption.\n12. See your doctor at least once a year for check-ups and screenings.\n13. Take a multivitamin daily for extra insurance against nutrient deficiencies.\n14. Get screened for cancer regularly, per your doctor’s orders'}]}
+
+————————————————————————————————————————
+
+Prompt: Please write a poem that conveys a sense of hope.
+Token Length: 11
+TTFT: 0.135 s
+TPOT: 65.106 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI’m not sure if this is a good example, but I’ve been thinking about the idea of hope a lot lately. I’ve been trying to figure out what hope means to US as a people. I’ve also been trying to figure out what hope meant to me when I first started this blog.\nI’ve written a lot about hope in the past, and I’ve tried to figure out what hope meant to me. I’ve tried to figure out what hope meant to me when I first started this blog. I’ve tried to figure out what hope meant to me when I first started this blog. I’ve tried to figure out what hope meant to me when I first started this blog. I’ve tried to figure out what hope meant to me when I first started this blog.\nI’ve tried to figure out what hope meant to me when I first started this blog. I’ve tried to figure out what hope meant to'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the character of Helena from "A Midsummer Night's Dream"
+Token Length: 15
+TTFT: 0.155 s
+TPOT: 65.234 ms
+Output Tokens: 44
+Response: {'choices': [{'text': ' in a few sentences.\n- print Print\n- list Cite\nExpert Answers\nmwestwood | Certified Educator\nHelena is a beautiful young woman who is in love with the vain Lord Demetrius.'}]}
+
+————————————————————————————————————————
+
+Prompt: What are the main differences between top-down and bottom-up design approaches?
+Token Length: 16
+TTFT: 0.139 s
+TPOT: 65.061 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nTop-down and bottom-up design approaches are two different ways of approaching the design process.\nTop-down design is a design process that starts with a high-level, abstract view of the system and then works its way down to the detailed, concrete level. This approach is often used in software design, where the goal is to create a system that is modular and can be easily extended or modified.\nBottom-up design, on the other hand, is a design process that starts with the detailed, concrete level and then works its way up to the high-level, abstract view. This approach is often used in construction or engineering, where the goal is to create a system that is robust and stands up to the test of time.\nThere are pros and cons to both top-down and bottom-up design approaches.\nTop-down design is often more efficient, as it allows for a more modular design that can be more easily extended or modified.\nBottom-up'}]}
+
+————————————————————————————————————————
+
+Prompt: If a is 8 and b is 16, what is the value of a + b?
+Token Length: 21
+TTFT: 0.136 s
+TPOT: 65.036 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA. 24\nB. 32\nC. 40\nD. 48\nE. 56\nF. 64\nG. 72\nH. 80\nI. 88\nJ. 96\nK. 104\nL. 112\nM. 120\nN. 128\nO. 136\nP. 144\nQ. 152\nR. 160\nS. 168\nT. 176\nU. 184\nV. 192\nW. 200\nX. 208\nY. 216\nZ. 224\nA. 24\nB. 32\nC. 40\nD. 48\nE. '}]}
+
+————————————————————————————————————————
+
+Prompt: Given the string numbertext, which is a number in letters, you need to output the corresponding integer. For this, the counting system is revised: numbers 1 through 999 are all expressed in combinations of the basic strings one, two, three, four, five, six, seven, eight, nine and the higher values ten and hundred.
+
+For 1 through 9, everything is normal. However: 10 through 999 are written only with combinations of the above strings, space-separated. Some examples:
+10, 11, 12, etcetera: one ten, one ten one, one ten two, etcetera.
+20, 30, ..., 90: two ten, three ten, ..., nine ten.
+21, 31, ..., 91: two ten one, three ten one, ..., nine ten one.
+100 is one hundred, 305 is three hundred five, 425 is four hundred two ten five, and 999 is nine hundred nine ten nine.
+
+Based on the given numbertext, you need to output the corresponding integer. For example, with input eight hundred two ten five you have to output 825.
+Token Length: 268
+TTFT: 0.138 s
+TPOT: 64.993 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\nInput\nThe input is a string containing the number in letters. The number is between 1 and 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999'}]}
+
+————————————————————————————————————————
+
+Prompt: Outline a plan to reduce water consumption in the household
+Token Length: 10
+TTFT: 0.136 s
+TPOT: 64.993 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nOutline a plan to reduce water consumption in the household.\nWater is a precious resource that is becoming scarcer by the day. It is, therefore, important to save water in any way possible. There are many ways to reduce water consumption in the household.\nOne way to save water is to fix all leaks in the house. This can make a big difference, as even a slow drip can waste a lot of water over time. Another way to save water is to take shorter Showers. Showers use a lot of hot water, which takes a lot of energy to heat up. Showers can also be a big waster of water, so it is important to be as brief as possible. Showers can also be replaced with a bath, which used less water. Showers can also be replaced with a bucket bath, which used even less water. Showers can also be replaced with a bowl bath, which used even less water again. Showers can also be'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain why Amazon Prime has become so popular.
+Token Length: 9
+TTFT: 0.137 s
+TPOT: 64.876 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nAmazon Prime is a subscription service offered by Amazon. It was launched in February 2005 and has since grown to be one of the most popular subscription services in the world.\nAmazon Prime was created to make it easier for customers to buy products from Amazon. Customers can now order products from Amazon at any time of the day or night and have their orders delivered to their doorsteps within 24 hours.\nAmazon Prime also offers other benefits such as free shipping on all orders over $25, early access to Lightning Deals, and exclusive deals on select items.\nAmazon Prime is a subscription service offered by Amazon. It was launched in February 2005 and has since grown to be one of the most popular subscription services in the world.\nAmazon Prime is a membership program that offers members free two-day shipping on all eligible purchases, as well as other benefits such as access to Prime Video and Prime Music.\nAmazon Prime also offers members exclusive access to deals'}]}
+
+————————————————————————————————————————
+
+Prompt: Come up with a few marketing ideas for a new restaurant.
+Token Length: 12
+TTFT: 0.135 s
+TPOT: 65.195 ms
+Output Tokens: 199
+Response: {'choices': [{'text': '\nBudget $10-30 USD\nI need you to write some content for a website.\n12 freelancers are vying for the best offer?\nHi, I am a professional copywriter, having , more than 5 years of experience in writing. I have read the the job description and interested to work on the same. I am available to start with the job immediately. More\nHi, I am a professional copywriter, having 5 years of experience in this field. I have read the job description and interested to work on the same. I am including a few more details on your work in your private messag More\nHi, I am a professional copywriter with an in-depth understanding of the target audience and the ability to create content that is both engaging and informative. I have experience in writing for a variety of indu More\nHi, I am a professional copywriter with 5 years or more of experience in this field. I have read'}]}
+
+————————————————————————————————————————
+
+Prompt: Calculate the perimeter of a triangle with sides 5, 6, and 7 meters.
+Token Length: 19
+TTFT: 0.136 s
+TPOT: 64.503 ms
+Output Tokens: 113
+Response: {'choices': [{'text': '\n\n## Solution\nWe can use the formula for the perimeter of a triangle to calculate the perimeter of the triangle.\nPerimeter of a triangle = a + b + c\nWhere a, b, and c are the sides of the triangle.\nIn this case, a = 5, b = 6, and c = 7.\nSo, the perimeter of the triangle is:\nPerimeter = 5 + 6 + 7 = 18 meters\nTherefore, the perimeter of the triangle is 18 meters.'}]}
+
+————————————————————————————————————————
+
+Prompt: Please provide three advantages of using data to make decisions
+Token Length: 10
+TTFT: 0.135 s
+TPOT: 64.492 ms
+Output Tokens: 115
+Response: {'choices': [{'text': '.\nPlease provide three advantages of using data to make decisions.\nAnswer to relevant QuestionsWhat is the difference between a data warehouse and a data mart? What are the advantages of using a data mart? What is the difference between a data mart and a data marts? What is the difference between a data mart and a data marts? What is the difference between a data mart and a data marts? What is the difference between a data mart and a data marts? What is the difference between a data mart and a data marts?\nPost your question'}]}
+
+————————————————————————————————————————
+
+Prompt: Identify the subject of the following sentence: "The movie was released yesterday".
+Token Length: 15
+TTFT: 0.135 s
+TPOT: 64.894 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe subject of the sentence is "the movie".\nAsked 3/29/21\nModified 10/20/21\nHomework help\nAsk a question\nCreate a free Q&A pair\nJoin Chegg Study\nAsk a question\nCreate a free Q&A pair\nOur expert All study guides expert\nTap to add\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject of the sentence is "the movie".\nThe subject'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain how a rainbow is created.
+Token Length: 7
+TTFT: 0.137 s
+TPOT: 64.905 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA rainbow is created when white light passes through water drops in the air. The water drops act like prisms, separating the white light into the colors of the rainbow.\nWhat is the difference between a rainbow and a spectrum?\nA rainbow is created when white light passes through water drops in the air. The water drops act like prisms, separating the white light into the colors of the rainbow. A spectrum, on the other hand, is created when white light passes through a small triangular prism. The prisms separate the white light into the colors of the rainbow.\nWhat is the difference between a primary and a secondary rainbow?\nA primary rainbow is the first rainbow that you see when you look at the sky. It is created when the sun is at a low angle in the sky and the water drops in the air are small. A secondary rainbow is created when the sun is at a higher angle in the sky and the water drops in the air are larger.\nWhat causes'}]}
+
+————————————————————————————————————————
+
+Prompt: Find the missing number in the following pattern: 12, 15, 18, 21, 24.
+Token Length: 29
+TTFT: 0.145 s
+TPOT: 64.868 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\n###### Option\n\nA) 27 \n\nB) 28 \nC) 29 \nD) 30 \n\nIn Focus\n\n## Related Quizzes\n\nAre you informed?\n\nThis is the approximate technology awareness test question for today one of our users has chosen a single answer as guessed by 60% of question paytm users.\n\n## Latest Trivia\n\nTest your general knowledge with our interactive and fun general knowledge quiz.\n\n## Random topics and news\n\n## News 10\n\n- 1. 1000000000000000000000000000000000000000000000000000000000000000000000000'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the traditional art of origami.
+Token Length: 8
+TTFT: 0.147 s
+TPOT: 64.858 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nOrigami is a traditional Japanese art form that involves the art of paper folding. It is a form of paper craft that involves the art of folding a single square piece of paper into a variety of different shapes and figures. The art form is thought to date back to the 17th century, and it is still practiced and enjoyed by many people all over the world.\nOrigami is all about the art of taking a square piece of paper and folding it in such a way that it can be transformed into a three-dimensional object. The art form is all about precision and attention to detail, and it is a great way to practice mindfulness and focus.\nOrigami is a great way to practice mindfulness and focus. It is a great way to practice being present and being in the moment. It is a great way to practice being present and being in the moment. It is a great way to practice being present and being in the moment.\nOrigami is a great way to'}]}
+
+————————————————————————————————————————
+
+Prompt: Rewrite this sentence to make it more formal:
+This work is really really really great.
+Token Length: 18
+TTFT: 0.145 s
+TPOT: 64.872 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is really great.\nThis work is'}]}
+
+————————————————————————————————————————
+
+Prompt: Correct this sentence: "It's raining very hardly outside".
+Token Length: 13
+TTFT: 0.144 s
+TPOT: 64.869 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\nI've heard this sentence so many times, but I'm not sure if it's correct or not.\nI've heard this sentence so many times, but I'm not sure if it's correct or not.\nAnswers days\nAnswers Mon\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed\nAnswers Wed"}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a paragraph describing why data science is important.
+Token Length: 10
+TTFT: 0.145 s
+TPOT: 64.868 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nData science is a field of study that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, in a consistent way, for the purpose of understanding and not notifying decisions.\nData science is a multidisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, in a consistent way, for the purpose of notifying decisions.\nData science is a field of study that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, in a consistent way, for the purpose of notifying decisions.\nData science is a field of study that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, in a consistent way, for the purpose of notifying decisions.\nData science is a field of study that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the lifestyle of a typical farmer in the United States.
+Token Length: 12
+TTFT: 0.143 s
+TPOT: 64.872 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nThe typical farmer in the United States is a small to medium-sized family farmer. The typical farmer is a man, although an increasing number of women are now running family farms. The typical farmer is a white, middle-aged man. The typical farmer is a Christian. The typical farmer is a Republican. The typical farmer is a gun owner. The typical farmer is a member of the NRA. The typical farmer is a member of the Republican Party. The typical farmer is a member of the NRA. The typical farmer is a member of the Tea Party. The typical farmer is a member of the Republican Party. The typical farmer is a member of the NRA. The typical farmer is a member of the Tea Party. The typical farmer is a member of the NRA. The typical farmer is a member of the Tea Party. The typical farmer is a member of the NRA. The typical farmer is a member of the Tea Party. The typical'}]}
+
+————————————————————————————————————————
+
+Prompt: Summarize the importance of a valid will.
+Token Length: 10
+TTFT: 0.146 s
+TPOT: 64.866 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nAnswer to relevant QuestionsWhat is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment? What is a power of appointment'}]}
+
+————————————————————————————————————————
+
+Prompt: Make a pizza from scratch.
+Token Length: 6
+TTFT: 0.145 s
+TPOT: 64.867 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nMake a homemade sauce from scratch.\nMake your own dough from scratch.\nMake your own Mozzarella cheese from scratch.\nMake your own Mozzarella sticks from scratch.\nMake your own Mozzarella sticks with marinara dipping sauce.\nMake your own Mozzarella sticks with marinara dipping sauce and salad.\nMake your own Mozzarella sticks with marinara dipping sauce and salad with garlic bread.\nMake your own Mozzarella sticks with marinara dipping sauce and salad with garlic bread and salad.\nMake your own Mozzarella sticks with marinara dipping sauce and salad with garlic bread and salad and salad dressing.\nMake your own Mozzarella sticks with marinara dipping sauce and salad with garlic bread and salad and salad dressing and salad dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing and dressing'}]}
+
+————————————————————————————————————————
+
+Prompt: Re-write the sentence " All that glitters is not gold " in a different way
+Token Length: 18
+TTFT: 0.145 s
+TPOT: 64.871 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '. ?\n- print Print\n- list Cite\nExpert Answers\npohnp | Certified Educator\nThis is a common saying that means that not everything that seems valuable is actually valuable. For example, a person may seem wealthy, but in actuality, that person may be in debt up to his eyeballs.\nThe best way to re-write this sentence is to use a simile. A simile is a figure of speech that uses like or as to compare two unlike things. For example, "All that glitters is like gold."\nThis is a simile because it compares something that shimmers (glitters) to something that shimmers (gold).\nStudent Comments\njessicabrown | Student\nAll that glitters is not gold.\nAll that glitters is not gold.\nAll that glitters is not gold.\nAll that glitters is not gold.\nAll that glitters is not gold.\nAll that glitters'}]}
+
+————————————————————————————————————————
+
+Prompt: Provide an example of a positive and a negative impact of technology on society.
+Token Length: 15
+TTFT: 0.143 s
+TPOT: 64.885 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\n1 Answer | Add Yours\nThe positive impact of technology on society is that it has made the world a smaller place. It has given us the ability to communicate with people all over the world in an instant. It has given us the ability to travel great distances in a short period of time. It has given us the ability to access information on just about any topic with the click of a button.\nThe negative impact of technology on society is that it has made us into a society of instant-gratification. We no longer have to wait for anything. We can have anything we want with the click of a button. We no longer have to wait for a letter to be delivered in the mail. We can send an email or a text message and it will be delivered instantly. We no longer have to wait for a phone call to be returned. We can call or text at any time of the day or's night and it will more than likely be returned right away.\nWe"}]}
+
+————————————————————————————————————————
+
+Prompt: What are the three features of a cloud-based Database-as-a-Service (DBaaS)?
+Token Length: 21
+TTFT: 0.144 s
+TPOT: 64.884 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database that is managed by a third-party provider.\n- ADBaaS is a cloud-based database'}]}
+
+————————————————————————————————————————
+
+Prompt: How could the government reduce air pollution from transport?
+Token Length: 10
+TTFT: 0.146 s
+TPOT: 64.875 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe government has set out a package of measures to reduce air pollution from road transport.\nThe'}]}
+
+————————————————————————————————————————
+
+Prompt: Translate the sentence "Dónde está la biblioteca?" from Spanish to English.
+Token Length: 17
+TTFT: 0.145 s
+TPOT: 64.876 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer\nMar 02, 2018\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is over there.\nThe library is'}]}
+
+————————————————————————————————————————
+
+Prompt: Find the synonym for "abhor".
+Token Length: 8
+TTFT: 0.146 s
+TPOT: 64.868 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA. detest\nB. like\nC. love\nD. hate\nFind the antonym for "abhor".\nA. like\nB. love\nC. detest\nD. hate\nFind the antonym for "abhor".\nA. like\nB. love\nC. detest\nD. hate\nFind the antonym for "abhor".\nA. like\nB. love\nC. detest\nD. hate\nFind the antonym for "abhor".\nA. like\nB. love\nC. detest\nD. hate\nFind the antonym for "abhor".\nA. like\nB. love\nC. detest\nD. hate\nFind the antonym for "abhor".\nA. like\nB. love\nC. detest\nD. hate\nFind the antonym for "abhor".\nA. like\nB. love\nC. detest\nD. hate\n'}]}
+
+————————————————————————————————————————
+
+Prompt: Are tarantulas poisonous? Give a detailed answer.
+Token Length: 11
+TTFT: 0.147 s
+TPOT: 64.867 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nTarantulas are not poisonous. They are arachnids, which are related to scorpions and ticks. Tarantulas have fangs, but they are not venom-injecting fangs. They use their fangs to slash and stab their prey. Tarantulas also have urticating bristles, which are barbed barbs that they use like a cat’s claws to defend themselves.\nTarantulas are not poisonous, but they can deliver a painful bite. The fangs of a tarantula are not barbed, so they cannot inject venom. However, the fangs of a tarantula can still cause a great deal of pain. The fangs of a tarantula are not barbed, so they cannot inject venom. However, the fangs of a tarantula can still cause a great deal of pain.\nTarantulas are not poisonous, but they can deliver a painful bite. The fangs of a tarantula'}]}
+
+————————————————————————————————————————
+
+Prompt: Look up the definition of the word “lucid” and summarize it in 3 sentences
+Token Length: 19
+TTFT: 0.155 s
+TPOT: 64.833 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' or less.\nLucid: 1. marked by clarity or sanity. 2. marked by ease of understanding. 3. marked by ease of understanding or comprehension.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m being clear enough.\nI’m not sure if I’m'}]}
+
+————————————————————————————————————————
+
+Prompt: Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+Founded in the 13th century, Berlin has had an eventful history. Excavations from 2008 suggest that the city may be even older than was previously assumed: state archaeologists have discovered an oak beam that probably dates back to 1183.
+
+Almost no other metropolis has experienced such frequent, radical change transforming the face of the city. Although Berlin saw steady growth in its importance, dazzling epochs alternated with darker eras. Nevertheless, the formerly divided city has succeeded in becoming a vibrant metropolis in the heart of Europe.
+
+Question: What events occurred in 20th century Berlin?
+Token Length: 173
+TTFT: 0.153 s
+TPOT: 64.835 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\nA. The Great Fire of 1616\n\nB. The Great Fire of 1842\n\nC. The Great Fire of 1945\n\nD. The Great Fire of 1987\n\nE. The Great Fire of 2008\n\nF. The Great Fire of 2013\n\nG. The Great Fire of 2018\n\nH. The Great Fire of 2023\n\nI. The Great Fire of 2028\n\nJ. The Great Fire of 2033\n\nK. The Great Fire of 2038\n\nL. The Great Fire of 2043\n\nM. The Great Fire of 2048\n\nN. The Great Fire of 2053\n\nO. The Great Fire of 2058\n\nP. The'}]}
+
+————————————————————————————————————————
+
+Prompt: Compare and contrast the differences between the United States and Japan.
+Token Length: 12
+TTFT: 0.156 s
+TPOT: 64.831 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nThe United States and Japan are two very different counties. The United States is a federal constitutional republic and a representative democracy, in which the President of the United States is the head of state and the head of government. The United States is a federal federal parliamentary constitutional republic comprising of fifty states and a federal district. The United States is a federal federal parliamentary constitutional republic and a representative democracy. The United States is a federal federal parliamentary constitutional republic and a representative federal parliamentary constitutional republic. The United States is a federal federal parliamentary constitutional republic and a federal parliamentary constitutional republic. The United States is a federal federal parliamentary constitutional republic and a federal parliamentary constitutional republic. The United States is a federal federal parliamentary constitutional republic and a federal parliamentary constitutional republic. The United States is a federal federal parliamentary constitutional republic and a federal parliamentary constitutional republic. The United States is a federal federal parliamentary constitutional republic and a federal parliamentary constitutional republic. The United States is a federal federal parliamentary constitutional republic and a federal'}]}
+
+————————————————————————————————————————
+
+Prompt: Compile 4 actionable advice on managing a remote team.
+Token Length: 11
+TTFT: 0.155 s
+TPOT: 64.833 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe remote work revolution is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.\nThe future of work is here.'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a list of 5 different job roles for a computer engineer.
+Token Length: 14
+TTFT: 0.144 s
+TPOT: 64.839 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nJob Roles:\n1. Software Developer\n2. Systems Tester\n3. Systems Tester\n4. Systems Tester\n5. Systems Tester\nJob Roles:\n1. Software Developer\n2. Systems Tester\n3. Systems Tester\n4. Systems Tester\n5. Systems Tester\nGet guaranteed high NCEF score or 15% additional score on test within 10 days\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n100% MANDATORY\n1'}]}
+
+————————————————————————————————————————
+
+Prompt: Find the x-intercept of the equation y = 2x + 4.
+Token Length: 17
+TTFT: 0.145 s
+TPOT: 64.838 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\n## Expert Answer\nThe x-intercept of the equation y = 2x + 4 is to be found.\nThe x-intercept is the value of x for which the corresponding value of y is 0.\nThe x-intercept is the solution of the equation 2x + 4...\n\n## Image Transcriptionclose\ny 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0 2x 4 0'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain the process of how a bill becomes a law.
+Token Length: 11
+TTFT: 0.143 s
+TPOT: 64.842 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nThe process of how a bill becames a law is a long and complicated one. The process is as follows:\n1. A bill is introduced in one of the two houses of Congress.\n2. The bill is referred to a committee.\n3. The committee holds hearings on the bill.\n4. The committee holds a markup session on the bill.\n5. The committee votes on the bill.\n6. The bill is reported out of committee.\n7. The bill is reported to the floor of one of the two houses of Congress.\n8. The bill is read twice on the floor of the house.\n9. The bill is read a third time.\n10. The bill is passed by the house.\n11. The bill is sent to the other house of Congress.\n12. The bill is read twice on the floor of the other house.\n13. The bill is read a'}]}
+
+————————————————————————————————————————
+
+Prompt: Who won the 2020 Super Bowl?
+Token Length: 11
+TTFT: 0.136 s
+TPOT: 64.930 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' Chiefs beat 49ers 31-20\nThe Kansas City Chiefs are your 2020 Super Bowl champions.\nThe Chiefs defeated the San Francisco 49ers 31-20 on Sunday to win their second Lombardi Trophy in three years.\nKansas City withstood a late rally by San Francisco to win its first Lombardi Trophy in 50 years.\nThe Chiefs are now just the third team in NFL history to win multiple Super Bowls in a three-season span.\nKansas City is the first team to win back-to-back Super Bowls since the New England Patriots in 2003 and 2004.\nThe Chiefs are also just the second team in NFL history to win multiple Super Bowls in a three-season span.\nThe 49ers are the first team in NFL history to lose back-to-back Super Bowls.\nThe Chiefs are now 2-1'}]}
+
+————————————————————————————————————————
+
+Prompt: Find the area of a rectangle with sides of length 4 and 3.
+Token Length: 16
+TTFT: 0.147 s
+TPOT: 64.979 ms
+Output Tokens: 80
+Response: {'choices': [{'text': '\n\n## Solution\n\nThe area of a rectangle is found by multiplying the length by the width.\n\nA = l ∙ w\n\nA = 4 ∙ 3\n\nA = 12\n\nThe area of the rectangle is 12 square units.\n\n## We’ll help your gradesso do your learning the fun way!'}]}
+
+————————————————————————————————————————
+
+Prompt: Give me an example of a group of non-human animals that are capable of learning social behaviors.
+Token Length: 20
+TTFT: 0.146 s
+TPOT: 65.359 ms
+Output Tokens: 78
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nOne example of a group of non-human animals that are capable of learning social behaviors is a group of wolves. Wolves are social animals and they live in packs. They are also very intelligent and are capable of learning social behaviors.\nWe’ve answered 318,915 questions. We can answer yours, too.Ask a question'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain the purpose of the current US federal income tax system.
+Token Length: 12
+TTFT: 0.136 s
+TPOT: 65.783 ms
+Output Tokens: 126
+Response: {'choices': [{'text': '\nAnswer to relevant QuestionsWhat is the difference between a tax expenditure and a tax expenditure limitation? What are the advantages and disadvantages of each? What is the purpose of including a sunset date in the tax code? What are the advantages and disadvantages of including a sunset date in the tax code? What is the purpose of including a phase-out in the tax code? What are the advantages and disadvantages of including a phase-out in the tax code? What is the purpose of including a phase-in in the tax code? What are the advantages and disadvantages of including a phase-in in the tax code?\nPost your question'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate an example of a practical application of the Monte Carlo method.
+Token Length: 13
+TTFT: 0.136 s
+TPOT: 64.983 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe Monte Carlo method is a technique used to solve problems that are too complex to solve analytically. It is a problem-solving technique that uses random sampling and probability to find approximate solutions to problems.\nThe first step in using the Monte Carlo method is to define the problem. This includes identifying the key variables, setting up the equations, and formulating the problem statement.\nOnce the problem has been defined, the next step is to generate a set of random numbers. This can bedone by hand or using a computer program. The random numbers are then used to generate a series of possible solutions to the problem.\nThe final step is to evaluate the solutions and select the one that best fits the problem statement.\nThe Monte Carlo method is a powerful problem-solving technique that can bedone by anyone with a basic understanding of statistics and probability. It is a great way to solve complex problems that are too difficult to solve analytically.\nThe Monte Carlo method is a problem-solving technique that'}]}
+
+————————————————————————————————————————
+
+Prompt: Come up with a list of 5 questions that could be asked in a job interview.
+Token Length: 18
+TTFT: 0.136 s
+TPOT: 65.049 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1. What are your strengths?\n2. What are your weaknesses?\n3. Why do you want this job?\n4. What are your career goals?\n5. What are your salary requirements?\n6. What are your career goals?\n7. What are your career goals?\n8. What are your career goals?\n9. What are your career goals?\n10. What are your career goals?\n11. What are your career goals?\n12. What are your career goals?\n13. What are your career goals?\n14. What are your career goals?\n15. What are your career goals?\n16. What are your career goals?\n17. What are your career goals?\n18. What are your career goals?\n19. What are your career goals?\n20. What are your career goals?\n21. What are your career goals?'}]}
+
+————————————————————————————————————————
+
+Prompt: What is the main action taken by a 2020 presidential candidate when campaigning?
+Token Length: 18
+TTFT: 0.134 s
+TPOT: 65.059 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA. They will promise to lower taxes.\nB. They will promise to raise taxes.\nC. They will promise to lower spending.\nD. They will promise to raise spending.\nE. They will promise to balance the budget.\nF. They will promise to run a deficit.\nG. They will promise to balance the budget by cutting spending.\nH. They will promise to balance the budget by raising taxes.\nI. They will promise to balance the budget by increasing spending.\nJ. They will promise to balance the budget by cutting taxes.\nK. They will promise to balance the budget by raising taxes and cutting spending.\nL. They will promise to balance the budget by cutting taxes and increasing spending.\nM. They will promise to balance the budget by raising taxes and decreasing spending.\nN. They will promise to balance the budget by cutting taxes and decreasing spending.\nO. They will promise to balance the budget by raising taxes and'}]}
+
+————————————————————————————————————————
+
+Prompt: Cite a health risk associated with drinking too much coffee.
+Token Length: 12
+TTFT: 0.147 s
+TPOT: 65.804 ms
+Output Tokens: 100
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nCaffeine is a mild diuretic, which means that it increases the rate at which the body excretes water. Caffeine also increases the rate at which the heart beats, which in and of itself is not a problem. However, if a person is already at risk for heart problems, then too much coffee can be dangerous.\nWe’ve answered 318,915 questions. We can answer yours, too.Ask a question'}]}
+
+————————————————————————————————————————
+
+Prompt: Come up with a step-by-step procedure for washing dishes.
+Token Length: 14
+TTFT: 0.137 s
+TPOT: 65.124 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nWashing dishes is a task that can be broken down into a series of steps.\n- Fill the sink with soapy, hot soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy water.\n- Soak the silverware in a separate container filled with soapy'}]}
+
+————————————————————————————————————————
+
+Prompt: Rewrite the following sentence in the past tense.
+
+"He finishes the report quickly."
+Token Length: 18
+TTFT: 0.145 s
+TPOT: 65.739 ms
+Output Tokens: 129
+Response: {'choices': [{'text': '\n\n## Answer\n\n"He use to finish the report quickly."\n\nAsk Your Mind\n+\nNo name\nPlease Enter the details of your interest.\nwhatsapp\n+\n+1-(2018)-797-0888\n\n+\n\nAsk to Community\n\nThis can\'\'t make it!\n\nRefresh Details\n\nNo Name| Private\n\nAsk Question\nClose        \nPlease login to ask the question.\n\nPlease login to answer the question.\n\nNo questions will refresh until the logout. Choose \'Log Out\' to end any active sessions.'}]}
+
+————————————————————————————————————————
+
+Prompt: Compare the climates of Lithuania and Latvia.
+Token Length: 9
+TTFT: 0.135 s
+TPOT: 65.180 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nLatvia and Lithuania are two of the three Baltic states in Northern Europe. They are located on the eastern coast of the Baltic Sea.\nLatvia and Lithuania are two of the three Baltic states in Northern Europe. They are located on the eastern coast of the Baltic Sea.\nLatvia and Lithuania are two of the three Baltic states in Northern Europe. They are located on the eastern coast of the Baltic Sea.\nLatvia and Lithuania are two of the three Baltic states in Northern Europe. They are located on the eastern coast of the Baltic Sea.\nLatvia and Lithuania are two of the three Baltic states in Northern Europe. They are located on the eastern coast of the Baltic Sea.\nLatvia and Lithuania are two of the three Baltic states in Northern Europe. They are located on the eastern coast of the Baltic Sea.\nLatvia and Lithuania are two of the three Baltic states in Northern Europe. They are located on the eastern coast of the Baltic Sea.\nLatvia and'}]}
+
+————————————————————————————————————————
+
+Prompt: Given the following input, create a rule for good communication.
+Token Length: 12
+TTFT: 0.136 s
+TPOT: 65.208 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\n```\n1. I want to talk to you.\n2. I want to talk to you.\n3. I want to talk to you.\n4. I want to talk to you.\n5. I want to talk to you.\n6. I want to talk to you.\n7. I want to talk to you.\n8. I want to talk to you.\n9. I want to talk to you.\n10. I want to talk to you.\n11. I want to talk to you.\n12. I want to talk to you.\n13. I want to talk to you.\n14. I want to talk to you.\n15. I want to talk to you.\n16. I want to talk to you.\n17. I want to talk to you.\n18. I want to talk to you.\n19. I want to talk'}]}
+
+————————————————————————————————————————
+
+Prompt: Suggest a dance move for a hip-hop routine.
+Token Length: 11
+TTFT: 0.135 s
+TPOT: 65.199 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\nI'm not sure. I've never been very good at that.\nWhat's the best part about being a backup dancer?\nThe best part about being a backup dancer is that you get to be on tour with your friends.\nWhat's the worst part about being a backup dancer?\nThe worst part about being a backup dancer is that you have to be on tour with your friends.\nWhat's the best part about being a backup dancer?\nThe best part about being a backup dancer is that you get to be on tour with your friends.\nWhat's the worst part about being a backup dancer?\nThe worst part about being a backup dancer is that you have to be on tour with your friends.\nWhat's the best part about being a backup dancer?\nThe best part about being a backup dancer is that you get to be on tour with your friends.\nWhat's the worst part about being a backup dancer?"}]}
+
+————————————————————————————————————————
+
+Prompt: List five advantages of using solar energy.
+Token Length: 8
+TTFT: 0.137 s
+TPOT: 65.154 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nSolar energy is a renewable source of energy. It is available in plenty and can be used to generate electricity. Solar energy is environment friendly and does not pollute the environment. Solar energy is available round-the-year. Solar energy does not require any fuel.\nList five disadvantages of using solar energy.\nSolar energy is available only during the day. Solar energy is not available in the night. Solar energy is not available in overcast season. Solar energy is not available in the monsoon season. Solar energy is not available in the hilly areas.\nWhat are the advantages of solar energy?\nSolar energy is a renewable source of energy. It is available in plenty and can be used to generate electricity. Solar energy is environment friendly and does not pollute the environment. Solar energy is available round-the-year. Solar energy does not require any fuel.\nWhat are the disadvantages of solar energy?\nSolar energy is available only during the day. Solar energy is not'}]}
+
+————————————————————————————————————————
+
+Prompt: Rearrange the words in the sentence to make a grammatically correct statement: "the streets around here dirty are very".
+Token Length: 24
+TTFT: 0.145 s
+TPOT: 65.115 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nA. The streets around here are dirty very.\nB. The streets around here are very dirty.\nC. The streets around here are very dirty.\nD. The streets around here are dirty very.\nE. The streets around here are dirty.\nF. The streets around here are very dirty.\nG. The streets around here are dirty very.\nH. The streets around here are dirty.\nI. The streets around here are very dirty.\nJ. The streets around here are dirty very.\nK. The streets around here are dirty.\nL. The streets around here are very dirty.\nM. The streets around here are dirty very.\nN. The streets around here are dirty.\nO. The streets around here are very dirty.\nP. The streets around here are dirty very.\nQ. The streets around here are dirty.\nR. The streets around here are very dirty.\nS. The streets around here'}]}
+
+————————————————————————————————————————
+
+Prompt: Summarize the article "The Philosophy of AI" and explain its main points.
+Token Length: 17
+TTFT: 0.147 s
+TPOT: 65.103 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe article "The Philosophy of AI" by John Searle is a critique of the field of artificial intelligence (AI) and its underlying assumptions. The main points of the article are as follows:\n- The field of AI is based on the assumption that intelligence is a physical phenomenon that can he reduced to the physical laws of the brain.\n- This reductionist view of intelligence leads to the conclusion that if we can understand the physical laws of the brain, we can create an artificial intelligence that is as intelligent as a human being.\n- The problem with this view is that it does not take into account the fact that intelligence is not a physical phenomenon, but a mental one.\n- The mental aspect of intelligence is not reducible to the physical laws of the brain, and therefore it is impossible to create an artificial intelligence that is as intelligent as a human being.\n- The only way to create an artificial intelligence that comes close to human intelligence is to create an artificial mind that is'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a data representation of a tree.
+Token Length: 8
+TTFT: 0.146 s
+TPOT: 65.110 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\n```\n\n   A\n  B   C\n D  => E\n  F\n\n```\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'}]}
+
+————————————————————————————————————————
+
+Prompt: Develop a strategy for reducing stress
+Token Length: 6
+TTFT: 0.145 s
+TPOT: 65.111 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' in your life.\nStress is a fact of life. It’s impossible to avoid stress altogether, but you can learn to manage it.\nThe first step is to identify the sources of stress in your life. Common sources of stress include work, money, family, and health. Once you’ve identified the sources of stress, you can start to develop a plan for managing them.\nHere are some tips for reducing stress:\n- Get enough sleep. Most people need 7-8 hours of sleep per night.\n- Exercise most days of the week. Exercise is a great way to reduce stress and improve your overall health.\n- Eat a healthy diet. A healthy diet rich in fresh produce, whole grains, and lean protein can make a big difference in how you feel both physically and mentally.\n- Learn relaxation techniques. Deep breathing, progressive muscle relaxation, and progressive muscle relaxation are all effective ways to reduce stress.\n- Spend time with friends and family.'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the differences between Chinese and French cuisine.
+Token Length: 9
+TTFT: 0.143 s
+TPOT: 65.119 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nChinese and French cuisines are both world-famous cuisines. They are both known for their exquisite presentation and complex preparation. However, there are some key differences between the two cuisines.\nOne of the most notable differences between Chinese and French cuisines is portion size. portion size in Chinese food portions are usually smaller than in French portions. This is because portion sizes in China are meant to be shared family-style, while in France, portion sizes are meant to be smaller and more elegant.\nAnother difference between the two cuisines is the use of seasonings. Chinese seasonings are usually more subtle and understated, while French seasonings are more robust and pronounced. This is one of the reasons why Chinese food can be so versatile-it can be seasoned however you like it.\nFinally, presentation is an important part of both cuisines. Presentation is everything in French cooking-dishes are plated beautifully and presented artistically. Presentation is also important'}]}
+
+————————————————————————————————————————
+
+Prompt: What is the greatest asset of a company?
+Token Length: 9
+TTFT: 0.146 s
+TPOT: 65.061 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe answer is simple: the people.\nThe people are the ones who make the company what it is.\nThe people are the ones who make the company what if it were not for them, the company most likely will not be as successful as it is today.\nThe people are the ones who make the company what it is.\nThe people are the ones who make the company what if it were not for them, the company most likely will not be as successful as it is today.\nThe people are the ones who make the company what it is.\nThe people are the ones who make the company what if it were not for them, the company most likely will not be as successful as it is today.\nThe people are the ones who make the company what it is.\nThe people are the ones who make the company what if it were not for them, the company most likely will not be as successful as it is today.\nThe people are the ones who'}]}
+
+————————————————————————————————————————
+
+Prompt: List some characteristics of a good manager.
+Token Length: 8
+TTFT: 0.147 s
+TPOT: 65.058 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\n1 Answer | Add Yours\nThe most important characteristic of a good manger is the ability to get the best out of the people who report to him. A good manger is able to bring out the best in his subordinates. He is able to bring out the best in his subordinates by being a good judge of the subordinates' strengths and weaknesses. He is also able to bring out the best in his subordinates by being a good judge of the subordinates' potential.\nA good manger is also a good judge of the subordinates' potential. He is also a good judge of the subordinates' potential. He is also a good judge of the subordinates' potential. He is also a good judge of the subordinates' potential. He is also a good judge of the subordinates' potential. He is also a good judge of the subordinates' potential. He is also a good judge of the subordinates' potential. He is also a good judge"}]}
+
+————————————————————————————————————————
+
+Prompt: Put together a plan to reduce the amount of energy being used in a home.
+Token Length: 16
+TTFT: 0.144 s
+TPOT: 65.062 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe plan should include:\n- A list of the energy-saving measures that you will carry out.\n- The order in which you will carry out the measures.\n- The estimated cost of the measures.\n- The estimated savings in energy and money that each measure will bring.\n- The estimated payback period for each measure.\n- The estimated payback period for the whole plan.\n- The estimated payback period for the whole plan, taking into account the interest rate that you are being charged on your loan.\n- The estimated payback period for the whole plan, taking into account the interest rate that you are being charged on your loan and the interest rate that you are being charged on your savings.\n- The estimated payback period for the whole plan, taking into account the interest rate that you are being charged on your loan and the interest rate that you are being charged on your savings and the interest rate that you are being charged on your loan and the'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a recipe for homemade pancake mix.
+Token Length: 8
+TTFT: 0.142 s
+TPOT: 65.068 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nPancake mix is a great item to have on hand for a quick hot breakfast.\nPancake mix is a great item to have on hand for a quick hot breakfast.\n1. Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.\n2. In a large bowl, combine the self rising flower, all-purpose flower, baking powder, baking soda, salt, and cinnamon.\n3. In a separate bowl, combine the buttermilk, egg, oil, and melted butter.\n4. Make a well in the dry ingre-dients and add the buttermilk mixture all at once. Mix just until moist ingredients are moistened.\n5. Drop batter by 1/4 measuring mug portions onto the buttered dish.\n6. Bake for 20 to 25 minutes, or until golden brown.\n7. Serve hot with'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a response to the user's query: "What should I do to improve my language skills?".
+Token Length: 21
+TTFT: 0.147 s
+TPOT: 65.042 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe user\'s query is: "What should I do to improve my language skills?".\nThe response to the user\'s query is: "To improve your language skills, it is important to practice as much as possible. This can include reading, writing, speaking, and even listening to the language you are trying to learn. Additionally, enrolling in a language course or working with a private tutor can be beneficial. Finally, trying to immerse yourself in the language as much as possible by watching dubbed shows or listening to music in the language you are learning can also be helpful."\nThe response is in English.\nThe response is a set of instructions on how to improve language skills.\nThe response is in the form of a list of steps to follow in order to improve language skills.\nThe response is a set of instructions on how to improve language skills.\nThe response is a list of resources that can be used to improve language skills.\nThe response is a list of'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain what happens when a computer is turned on.
+Token Length: 10
+TTFT: 0.147 s
+TPOT: 65.042 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\nWhen a computer is turned on, the power supply unit (PSU) converts the alternating current (AC) from the wall outlet into the direct current (DC) that the computer's motherboard and other components require. The motherboard then sends the power to the processor, memory, and other components. The processor then starts the boot process, which includes loading the operating system (OS) and starting the necessary background processes.\nThe power supply unit (PSU) is a crucial component of a computer as it converts the alternating current (AC) from the wall outlet into the direct current (DC) that the computer's motherboard and other components require. The power supply unit is responsible for providing the necessary power to the computer's various components, including the motherboard, the processor, the graphics card, the hard drives, and the optical drives.\nThe power supply unit is also responsible for providing the necessary power to the various fans and cooling systems that keep the computer's internal components cool"}]}
+
+————————————————————————————————————————
+
+Prompt: Identify 5 topics to study for a calculus exam.
+Token Length: 11
+TTFT: 0.146 s
+TPOT: 65.043 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer\nMar 2, 2016\nI\'m not sure what you mean by "topics to study" but here are a few ideas:\n- Limits\n- Continuity\n- Differentiability\n- The Mean Value Theorem\n- The Intermediate Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme Value Theorem\n- The Extreme'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a plan to teach a child basic safety rules.
+Token Length: 11
+TTFT: 0.144 s
+TPOT: 65.039 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- Where to go in case of an emergency\n- What to do in case of a fire\n- What to do in case of a tornado\n- What to do in case of a hurricane\n- What to do in case of a flood\n- What to do in case of a fire\n- What to do in case of a gas leak\n- What to do in case of a power outage\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of a chemical spill\n- What to do in case of'}]}
+
+————————————————————————————————————————
+
+Prompt: Make a recipe for spicy garlic shrimp.
+Token Length: 8
+TTFT: 0.147 s
+TPOT: 65.030 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- 1/2 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/4 cup olive oil\n- 1/4 cup butter\n- 1/'}]}
+
+————————————————————————————————————————
+
+Prompt: Compare and contrast two movies of your choice.
+Token Length: 9
+TTFT: 0.144 s
+TPOT: 65.034 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe two motion pictures that I have chosen to compare and contrast are “The Shawshank Redemption” directed by Frank D.\nWe Will Write a Custom Essay Specifically\nFor You For Only $13.90/page!\norder now\nTheyshank” directed by Frank D.\nRoach and “The Shawshank Redemption” directed by Frank D. Roach.\nThe two motion pictures that I have chosen to compare and contrast are “The Shawshank Redemption” directed by Frank D.\nRoach and “The Shawshank Redemption” directed by Frank D. Roach.\nThe two motion pictures that I have chosen to compare and contrast are “The Shawshank Redemption” directed by Frank D. Roach and “The Shawshank Redemption” directed by Frank D. Roach.\nThe two motion pictures that I have chosen to compare and contrast are “The Shaw'}]}
+
+————————————————————————————————————————
+
+Prompt: Identify 3 key problems with the current US healthcare system and propose solutions to those problems.
+Token Length: 18
+TTFT: 0.144 s
+TPOT: 65.034 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nSolution Preview:\nThe current US healthcare system is plagued with a number of problems. The three key problems with the current US healthcare system are:\n1. High Costs: The current US healthcare system is characterized by high costs. This is due to the fact that the system is highly fragmented and there is no universal coverage. This makes it difficult for the government to control costs.\n2. Inefficient Service Delivery: The current US healthcare system is also characterized by inefficient service delivery. This is due to the fact that the system is highly fragmented and there is no universal coverage. This makes it difficult for the government to control costs.\n3. Lack of Coordination: The current US healthcare system is also characterized by a lack of coordination. This is due to the fact that the system is highly fragmented and there is no universal coverage. This makes it difficult for the government to control costs.\nThe three key problems with the current US healthcare system are:\n1. High Costs:'}]}
+
+————————————————————————————————————————
+
+Prompt: Give an example of an idea that would make life easier.
+Token Length: 12
+TTFT: 0.145 s
+TPOT: 65.035 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nI\'m not sure if this is a good example, but I\'ve often thought wouldn\'t it be nice if say, you had a button on your phone that you pressed and it would automatically call the police if say, you called 911 and said "Help, I\'m about to be mugged" or words to that effect.\nI\'m not sure if this is a good example, but I\'ve often thought how about a button on your phone that you press and it automatically called the police if you called 911 and said "Help, I\'m about to be mugged" or words to that effect.\nI\'m not sure if this is a good example, but I\'ve often thought how about a button on your phone that you press and it automatically called the police if you called 911 and said "Help, I\'m about to be mugged" or words to that effect.\n-'}]}
+
+————————————————————————————————————————
+
+Prompt: Provide a headline for a news article about the moon landing
+Token Length: 11
+TTFT: 0.144 s
+TPOT: 65.031 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nThe headline should be a maximum of 10 words long.\nThe headline should be a maximum of 10 words long.\nThe moon landing was a huge step for the United States. It showed the world that we were capable of great things. The landing was a huge success, and it captured the attention of the world.\nThe headline for a news article about the moon landing should be "Man on the Moon."\nThe headline for a news article about the moon landing should be "Man on the Moon."\nThe headline for a news article about the moon landing should be "Man on the Moon."\nThe headline for a news article about the moon landing should be "Man on the Moon."\nThe headline for a news article about the moon landing should be "Man on the Moon."\nThe headline for a news article about the moon landing should be "Man on the Moon."\nThe headline for a news article about the moon landing should be "Man on'}]}
+
+————————————————————————————————————————
+
+Prompt: Compose the opening sentence of a story that is set in a dark, spooky forest:
+Token Length: 19
+TTFT: 0.137 s
+TPOT: 65.032 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe full moon shined brightly through the canopy of the forest, lighting up the path before her. She shivered, goosebumps rising on her arms. The forest was eerie and foreboding, and she felt a prickle of fear run up her spine. She tried to shake it off, but the feeling stuck with her with every step she too.\nThe full moon shined brightly through the canopy of the forest, lighting up the path before her. She shivered, goosebumps rising on her arms. The forest was eerie and foreboding, and she felt a prickle of fear run up her spine. She tried to shake it off, but the feeling stuck with her with every step she too.\nThe full moon shined brightly through the canopy of the forest, lighting up the path before her. She shivered, goosebumps rising on her arms. The forest was eerie and foreboding, and she felt a prickle of fear run up'}]}
+
+————————————————————————————————————————
+
+Prompt: What can be done to reduce air pollution?
+Token Length: 9
+TTFT: 0.136 s
+TPOT: 65.052 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nAir pollution is a major problem in many parts of the world, and it can have a range of negative effects on human health and the environment. Here are some steps that can be taken to reduce air pollution:\n- Reduce the use of private vehicles: One of the most effective ways to reduce air pollution is to reduce the number of cars on the road. Encourage people to use public transportation, carpool, or cycle or walk short distances.\n- Use alternative energy sources: Replacing fossil fuels with renewable energy sources such as solar, wind, and hydropower can have a significant impact on air pollution levels.\n- Improve vehicle efficiency: Promote the use of more fuel-efficient vehicles and improve the fuel economy of existing vehicles.\n- Reduce industrial emissions: Implement strict regulations on industrial emissions to reduce the amount of pollutants released into the atmosphere.\n- Plant more trees: Trees are natural air purifiers and can help to remove pollutants from the air. Planting more trees'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a list of the main characters in the novel "The Catcher in the Rye".
+Token Length: 19
+TTFT: 0.136 s
+TPOT: 65.052 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nThe main character in the novel is Holden Caufield. He is a 16-year-old boy who has just been expelled from his fourth school. He is leaving Pencey Prep and is on his way home to New York City. He is telling the story of his last few days at Pencey to the reader.\nHolden is a very likeable character. He is very sensitive and caring. He is also very idealistic and is always looking for the good in people. He is very idealistic about the world in which he lives. He is also very idealistic about the people in his life. He is very idealistic about the world in which he lives.\nHolden is also very idealistic about the people in his life. He is very idealistic about the world in which he lives. He is also very idealistic about the people in his life. He is also very idealistic about the world in which'}]}
+
+————————————————————————————————————————
+
+Prompt: Compose an email to a customer acknowledging their complaint and apologize for the inconvenience caused.
+Token Length: 17
+TTFT: 0.137 s
+TPOT: 65.051 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nDear Mr. Smith,\nThank you for your email. I am sorry to hear that you did not have a very good experience with our company. I understand that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you did not like the way we handled your complaint. I am sorry that you'}]}
+
+————————————————————————————————————————
+
+Prompt: Create a time-table to show the process of baking a cake.
+Token Length: 14
+TTFT: 0.143 s
+TPOT: 65.391 ms
+Output Tokens: 84
+Response: {'choices': [{'text': "\nThe present downloadable printable is meant for high school students, elementary school students and kindergartners and nursery school at Beginner (pre-A1) and Elementary (A1) level. It is aimed at revising Adjectives in context in English, and is a valuable material for working on your class' Writing at Pre-intermediate (pre-AISI) and Intermediate (portuguese)"}]}
+
+————————————————————————————————————————
+
+Prompt: Summarize the key points of President Obama's speech at the 2016 Democratic National Convention.
+Token Length: 23
+TTFT: 0.145 s
+TPOT: 65.010 ms
+Output Tokens: 200
+Response: {'choices': [{'text': "\n- Download PDF\n11 Answers | Add Yours\nThe key points of President Obama's speech at the 2016 Democratic National Convention were as follows:\n1. He said that the election represented a choice between he and Secretary Clinton and Donald Trump.\n2. He said that the choice came down to whether the country should move forward or backward.\n3. He said that the country could not afford to move backward.\n4. He said that the country could not afford to move in a different direction.\n5. He said that the country could not afford to move in a different direction.\n6. He said that the country could not afford to move in a different direction.\n7. He said that the country needed to move forward.\n8. He said that the country could not afford to move in a different direction.\n9. He said that the country needed to move forward.\n10. He said that the country needed to move"}]}
+
+————————————————————————————————————————
+
+Prompt: Construct a regular expression to validate a valid phone number.
+Token Length: 11
+TTFT: 0.137 s
+TPOT: 65.036 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n\nInput :  -> 1234567890\nOutput: 1234567890\n\nInput : 12345678901\nOutput: 12345678901\n\nInput : 123456789012\nOutput: 123456789012\n\nInput : 1234567890123\nOutput: 1234567890123\n\nInput : 12345678901234\nOutput: 12345678901234\n\nInput : 123456789012345\nOutput: 123456789'}]}
+
+————————————————————————————————————————
+
+Prompt: Write five adjectives that describe the concept of freedom.
+Token Length: 10
+TTFT: 0.136 s
+TPOT: 65.003 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite five adjectives that describe the concept of freedom.\nWrite'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a persuasive argument for using renewable sources of energy.
+Token Length: 11
+TTFT: 0.136 s
+TPOT: 64.970 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n- print Print\n- list Cite\nExpert Answers\npohnp | Certified Educator\nRenewable energy sources are those that are naturally replenished. This means that they are not finite, unlike fossil fuels. Renewable energy sources include solar, wind, hydroelectric, and geothermal.\nSolar energy is the most abundant energy source on the planet. It is also the cleanest and most readily available. Solar energy can be used to heat water, generate electricity, and even to power entire cities.\nWind energy is another renewable energy source that is becoming more and more popular. Wind farms are being built all over the world, and entire countries are getting a large percentage of their energy from wind.\nHydroelectric power is another renewable energy source that has been used for centuries. Dams are built that use the potential energy of falling water to generate electricity.\nGeothermal energy is another renewable energy source that is becoming more popular by the day. Energy is tapped from'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain the different parts of the circulatory system
+Token Length: 9
+TTFT: 0.135 s
+TPOT: 64.962 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nThe circulatory system is a complex network of blood vessels that carry blood throughout the body. The circulatory system is made up of the heart, blood, blood vessels, and lymphatic system. The heart is a muscular organ that pumps blood throughout the body. The blood is a specialized body fluid that carries oxygen, nutrients, carbon dioxide, and other essential materials to the body’s organs and tissues. The blood vessels are thin tubes that carry blood away from the heart to the body’s organs and back to the heart. The lymphatic system is a network of thin tubes that carry a clear, colorless fluid called lymph. Lymph carries white blood cells and other immune system cells to help fight infection.\nWhat are the different parts of the circulatory system?\nThe circulatory system is a complex network of blood vessels that carry blood throughout the body. The circulatory system is made up of the heart, blood, and blood vessels. The heart is a muscular organ that'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a sentence that expresses your opinion on a given topic.
+Token Length: 12
+TTFT: 0.136 s
+TPOT: 64.882 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe topic is:\n"Should smoking be banned in public places?"\nThe sentence is:\n"I think that smoking should be banned in public places."\nThe sentence is:\n"I think that smoking should be banned in public places."\nGet a Stronger Grades\nTop Experts\nGet Free Plagiarism Report\n- Our services\n- Write my paper\n- Write My Paper - Let\' -s find the right one for you without screen-out\n- Write my paper for me\n- Write my paper for me online\n- Write my paper for me for cheap\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for me reviews\n- Write my paper for'}]}
+
+————————————————————————————————————————
+
+Prompt: Compare and contrast convolutional neural networks with recurrent neural networks.
+Token Length: 11
+TTFT: 0.137 s
+TPOT: 64.896 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nConvolutional neural networks (CNNs) and recurrent neural networks (RNNs) are both types of artificial neural networks that are used in a variety of applications, such as image and speech recognition, natural language processing, and process control.\nConvolutional neural networks are a type of neural network that is used for processing data that is organized in a regular grid, such as images and videos. They are particularly well-suited for use in image recognition and object detection tasks, as they are able to learn hierarchical representations of the input data.\nRecurrent neural networks, on the other hand, are a type of neural network that is used for processing sequential data, such as text and speech. They are particularly well-suited for use in natural language processing and speech recognition tasks, as they can take into account the order and context of the input data.\nOne key difference between the two types of neural networks is that convolutional neural networks are designed to process data that is organized in a regular'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe the core components of a marketing plan.
+Token Length: 9
+TTFT: 0.137 s
+TPOT: 64.642 ms
+Output Tokens: 84
+Response: {'choices': [{'text': '\nAnswer to relevant QuestionsWhat are the three basic types of marketing information systems? What are the advantages and disadvantages of each? What are the major components of a marketing information system? What are the major components of a marketing information system? What are the major components of a marketing information system? What are the major components of a marketing information system? What are the major components of a marketing information system?\nPost your question'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain Amazon’s Three-Tier System.
+Token Length: 9
+TTFT: 0.135 s
+TPOT: 64.899 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nAmazon’s three-tier system is a pricing strategy that the company uses to undercut its competition. The three tiers are the first tier, which is the lowest-priced tier, the second tier, which is the mid-priced tier, and the third tier, which is the highest-priced tier.\nThe first tier is by far the most popular tier, and it is by far the most profitable for Amazon. The second tier is the most popular tier for Amazon as well, but it is not as profitable as the first tier. The third tier is the least popular tier, and it is not as profitable as the first two tiers.\nThe three-tier system is a pricing strategy that Amazon uses to undercut its competition. The three tiers are the first tier, which is the lowest-priced tier, the second tier, which is the mid-priced tier, and the third tier, which is the highest-priced tier.\nThe first tier is the most popular tier'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate a description of a cat walking in a courtyard.
+Token Length: 11
+TTFT: 0.134 s
+TPOT: 64.870 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe cat is walking in a courtyard. The sun is setting, casting long shadows over the grass. The cat is deep in thought, lost in its own world. It is lost in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat is deep in thought about its next meal. The cat'}]}
+
+————————————————————————————————————————
+
+Prompt: What is the time complexity of Bubble Sort?
+Token Length: 9
+TTFT: 0.138 s
+TPOT: 64.829 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nBubble sort is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps when they are in the wrong order. The pass is done yet yet again, to ensure the list is still sorted.\nBubble sort is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair or adjacent items and swaps when they are in the wrong order. The pass is done yet again, to ensure the list is still sorted.\nThe time complexity of bubble sort is O(n2), where n is the number of items in the list.\nBubble sort is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair or adjacent items and swaps when they are in the wrong order. The pass is done yet again, to ensure the list is still sorted.\nThe time complexity of bubble sort is O(n2), where n is the number of items in the list.\nBubble sort is'}]}
+
+————————————————————————————————————————
+
+Prompt: Give me an example of an African-American literature work.
+Token Length: 12
+TTFT: 0.145 s
+TPOT: 64.806 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nOne of the most famous African-American works of literature is "The Souls of Black Folk" by W.E.B. DuBois. This work is a series of essays that were published in 1903. The essays are about the African-American experience. The essays are divided into two sections. The first section is called "The Conservation of Races" and the second section is called "The Talented Tenth." The first section is about the history of African-Americans in the United States. The second section is about the importance of education for African-Americans.\nWe’ve Asked 2016 MBA Experts\nStay H\n"The books and the most inspiring\nHBS 2013-2014\n"The books and the most inspiring\n"The books and the most inspiring\n"The books and the most inspiring\n"The books and the most inspiring\n"The books and'}]}
+
+————————————————————————————————————————
+
+Prompt: Name a mammal species that is native to the United States.
+Token Length: 13
+TTFT: 0.146 s
+TPOT: 64.755 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe American Bison\nThe American Black Bear\nThe American Crocodile\nThe American Crocodile\nThe American Crocodile is a species of water-loving crocodilian found in the tropical and subtropical regions of the Americas. It is the only living species of the genus Crocodylus.\nThe American Crocodile is a large, semi-aquatic, semiterrestrial, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurnal, diurn'}]}
+
+————————————————————————————————————————
+
+Prompt: How can I beat procrastination?
+Token Length: 7
+TTFT: 0.135 s
+TPOT: 64.721 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nHow to Beat Procrastination\n- Break down big tasks into small, manageable steps.\n- Set a due date for each task.\n- Break down due dates into smaller due dates.\n- Break down due dates into smaller due dates.\n- Break down due dates into smaller due dates.\n- Break down due dates into smaller due dates.\n- Break down due dates into smaller due dates.\n- Break down due dates into smaller due dates.\nHow do I stop procrastinating and start working?\nHow to Stop Procrastinating and Start Working\n-\nHow do I stop being so lazy and start working?\nHow to Stop Being Lazy and Start Working Out\n- 1) Get a Workout Buddy.\n- 2) Set a Goal.\n- 3) Make a Plan.\n- 4) Get a New Workout Playlist.\n- 5) Get a New Workout Playlist.\n- 6)'}]}
+
+————————————————————————————————————————
+
+Prompt: Describe a difficult dilemma that someone could face.
+Token Length: 9
+TTFT: 0.134 s
+TPOT: 64.723 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nYou should say:\n- what the dilemma was\n- who was involved\n- how the person coped with the dilemma\n- and explain how you would have coped with the dilemma.\nSample Answer – Band 8\nI’m going to talk about a difficult dilemma that I had to face in the past. It was a long long time ago, when I was still in high school. I was 15 years old at that time. I was a very naughty boy. I skipped many classes and even bunked some classes. I was always up to some pranks. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very naughty. I was very'}]}
+
+————————————————————————————————————————
+
+Prompt: Generate an example of a slogan to promote the importance of maintaining mental health
+Token Length: 14
+TTFT: 0.138 s
+TPOT: 64.718 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nThe importance of mental health is a topic that is often overlooked, but it is just as important as physical health. In this blog post, we will explore the importance of mental health and provide some tips on how to maintain it.\nMental health is a state of well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively, and is able to make a contribution to his or her community.\nThere are many factors that can have an impact on our mental health, such as our genetics, our life experiences, and our current life circumstances. It is important to be able to recognize the signs of poor mental health, such as feeling down or having low energy, in order to take steps to improve our mental well-being.\nThere are many things that each of us can do to maintain good mental health. Some simple tips include getting enough sleep, eating a balanced diet, exercising on a regular basis,'}]}
+
+————————————————————————————————————————
+
+Prompt: What are the top three hot topics in artificial intelligence research?
+Token Length: 12
+TTFT: 0.144 s
+TPOT: 64.677 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe top three hot topics in artificial intelligence research are:\n- Machine learning\n- Natural language processing\n- Computer vision\nWhat is the difference between artificial intelligence and machine learning?\nArtificial intelligence (AI) and machine learning (ML) are two related but different fields. AI is the broader field that deals with creating intelligent machines, while ML is a subfield of AI that deals with creating computer programs that can learn from data.\nWhat are the different types of artificial intelligence?\nThere are three main types of artificial intelligence: narrow or weak artificial intelligence, general or strong artificial intelligence, and super or general artificial intelligence.\nNarrow or weak artificial intelligence is the type of artificial intelligence that is currently being developed. It is designed to perform a specific task or set of tasks at a high level of proficiency.\nGeneral or strong artificial intelligence is the type of artificial intelligence that can learn and reason on its own. It is not yet possible to create a general or strong artificial intelligence'}]}
+
+————————————————————————————————————————
+
+Prompt: Recall 10 different dog breeds.
+Token Length: 8
+TTFT: 0.143 s
+TPOT: 64.643 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe dog is a domestic carnivorous and omnivorous quadruped, a subspecies of the Canidae, which is a mammal of the order Carnivora.\nThe dog is a social animal, which is why it is so well suited for living with people.\nThe dog is a social animal, which is why it is so well suited for living with people.\nThe dog is a social animal, which is why it is so well suited for living with people.\nThe dog is a social animal, which is why it is so well suited for living with people.\nThe dog is a social animal, which is why it is so well suited for living with people.\nThe dog is a social animal, which is why it is so well suited for living with people.\nThe dog is a social animal, which is why it is so well suited for living with people.\nThe dog is a social animal, which is why it is so well suited for'}]}
+
+————————————————————————————————————————
+
+Prompt: Find a cloud type and explain what causes it.
+Token Length: 10
+TTFT: 0.145 s
+TPOT: 64.589 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe types of clouds are:\nCirrus: Cirrus clouds are the high-level, thin, wispy clouds that form at high altitudes. They are made of ice crystals and are often feather-like in appearance. Cirrus clouds are usually found in the upper parts of the troposphere, at altitudes of 10,000 to 20,000 feet.\nCirrostratus: Cirrostratus clouds are high-level, thin, sheet-like clouds that form at high altitudes. They are made of ice crystals and are often described as looking like a thin, wispy veil. Cirrostratus clouds are usually found in the upper parts of the troposphere, at altitudes of 10,000 to 20,000 feet.\nCirrocumulus: Cirrocumulus clouds are small, patchy, lenticular-shaped clouds that form at high'}]}
+
+————————————————————————————————————————
+
+Prompt: Create an algorithm to check if a given word is an anagram of another.
+Token Length: 16
+TTFT: 0.144 s
+TPOT: 64.557 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nAn anagram is a type of word play, where letters in a word or phrase are re-arranged to form a new word or phrase, using the original letters exactly once.\nFor example, the letters in the word anagram can be rearranged to get the anagram margana.\nWrite a function to check whether a given word is an anagram of another word.\nThe function should be case-insensitive and use the same character set.\nThe function should return true if the given word is an anagram of the other word.\nThe function should return false otherwise.\nThe function should work for both lowercase and uppercase letters.\nThe function should work for both English and non-English alphabets.\nThe function should work for both English and non-English alphabets.\nThe function should work for both English and non-English alphabets.\nThe function should work for both English and non-English alphabets.\nThe function should'}]}
+
+————————————————————————————————————————
+
+Prompt: Change the following sentence to passive voice: "He opened the door".
+Token Length: 14
+TTFT: 0.144 s
+TPOT: 64.515 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe door was opened by him.\n- print View\n- press keyboard to rest\n- Home\n- Speakeasy\n- Grammar Quizzes\n- Grammar Quizzes\n- Change the following sentence to passive voice: "He opened the door".\nThe door was opened by him.\n- print View\n- press keyboard to rest\nYou must sign in to post a comment.\nI\'m not sure if this is the right forum for this, but I\'ve been trying to find a good way to say this for a while now.\nI\'m not sure if this is the right forum for this, but I\'ve been trying to find a good way to say this for a while now.\nI\'m not sure if this is the right forum for this, but I\'ve been trying to find a good way to say this for a while now.\nI\'m not sure if this is the right forum for this, but I\''}]}
+
+————————————————————————————————————————
+
+Prompt: Write a composition about your most memorable holiday.
+Token Length: 9
+TTFT: 0.143 s
+TPOT: 64.516 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nYou should spend about 40 minutes on this task.\nYou should write at least 150 words.\nYou should use your own ideas to complete this task.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate for an IELTS essay.\nYou should write in a style that is appropriate'}]}
+
+————————————————————————————————————————
+
+Prompt: Suggest a movie for a friend who enjoys horror films
+Token Length: 10
+TTFT: 0.146 s
+TPOT: 64.467 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ".\nI'm looking for a good scary movie that's not too gory.\nI'm not into slasher flicks, found footage, found footage found in a box, found footage found in a box that's been found, found footage found in a box that's sat in a basement for 20 years, found footage found in a box that's sat in a basement for 20 years and is now on the loose, found footage found in a box that's sat in a basement for 20 years and is now on the loose and is after a family of four, found footage found in a box that's sat in a basement for 20 years and is now on the loose and is after a family of four who remind me of the ones in The Ring, found footage found in a box that's sat in a basement for 20 years and is now on the loose and is after a family of four"}]}
+
+————————————————————————————————————————
+
+Prompt: List some pros and cons of using a hot air balloon for transportation.
+Token Length: 14
+TTFT: 0.144 s
+TPOT: 64.470 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nHot air balloons are a form of transportation that is very different from any other form of transportation. They are not as fast as cars, trains, or planes. They are not as fuel efficient as cars, trains, or planes. They are not as safe as cars, trains, or planes. They are not as roomy as cars, trains, or planes. They are not as cool as cars, trains, or planes.\nHot air balloons are, however, a form of transportation that is very different from any other form of transportation. They are quiet. They are environmentally friendly. They are romantic. They are fun. They are relaxing. They are an experience. They are an adventure. They are an experience that very, very, few people in the world ever get to have.\nHot air balloons are a form of transportation that is very different from any other form of transportation. They are a form of transportation that is very, very, different from'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain why filing an income tax return is mandatory.
+Token Length: 10
+TTFT: 0.144 s
+TPOT: 64.431 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nExplain why filing an income tax return is mandatory.\nAnswer: Filing ITR is mandatory for individuals having total income of –\n- 250000 or more in AY 2018-19\n- 300000 or more in AY 2019-20\n- 500000 or more in AY 2020-21\n- 750000 or more in AY 2 IAS 2021-22\n- 1000000 or more in AY 2022-23\n- 1250000 or more in AY 2023-24\n- 1500000 or more in AY 2024-25\n- 2500000 or'}]}
+
+————————————————————————————————————————
+
+Prompt: Write a simple definition of the word "economics".
+Token Length: 11
+TTFT: 0.143 s
+TPOT: 64.392 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer | Add Yours\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is a social science that deals with the production, distribution, and consumption of wealth.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics is the study of how humanity uses its limited resources to satisfy its unlimited wants.\nEconomics'}]}
+
+————————————————————————————————————————
+
+Prompt: Give 3 advantages of using a robot instead of a human
+Token Length: 12
+TTFT: 0.142 s
+TPOT: 64.393 ms
+Output Tokens: 200
+Response: {'choices': [{'text': ' to do the job?\n1 Answer\nJun 24, 2018\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job more consistently and more quickly than a human.\nThe robot can be programmed to do the job'}]}
+
+————————————————————————————————————————
+
+Prompt: Complete the following sentence: "Software engineering is important in the technology industry because..."
+Token Length: 16
+TTFT: 0.144 s
+TPOT: 64.347 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nSoftware engineering is important in the technology industry because it is the foundation of all technology. Without software, there is no technology. Software engineering is the process of designing, creating, and maintaining software. It is a complex and ever-changing field that requires a great deal of skill and knowledge. Software engineers are responsible for creating the code that powers the technology we use on a daily basis. They are also responsible for making sure that the software is functioning as it should and that it is secure from outside threats.\nSoftware engineering is important in the technology industry for a number of reasons. First, it is the foundation of all technology. Without software, there would be no technology as we know it today. Second, software engineering is constantly evolving and changing as technology changes. This means that software engineers must constantly update their skills in order to keep up with the latest trends and technologies. Finally, software engineering is a critical part of the technology industry as it is responsible for creating the code that powers our devices'}]}
+
+————————————————————————————————————————
+
+Prompt: Explain why computers are faster than humans in solving math problems.
+Token Length: 12
+TTFT: 0.152 s
+TPOT: 63.947 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\n1 Answer\nMar 10, 2018\nComputers are faster than humans in solving math problems because they are not bound by the limitations of the human body.\nHumans are limited in that they tire more quickly than a computer.\nHumans are also limited in that they are not as accurate as a computer.\nHumans are also limited in that they are not as fast as a computer.\nHumans are also limited in that they are not as logical as a computer.\nHumans are also limited in that they are not as patient as a computer.\nHumans are also limited in that they are not as creative as a computer.\nHumans are also limited in that they are not as curious as a computer.\nHumans are also limited in that they are not as open-minded as a computer.\nHumans are also limited in that they are not as curious as a computer.\nHumans are also limited in that they'}]}
+
+————————————————————————————————————————
+
+Prompt: Identify two of the most commonly used programming languages in game development.
+Token Length: 13
+TTFT: 0.136 s
+TPOT: 63.558 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nWhat is the most popular game development language?\nC++ is the most popular game-development language, and it’s also one of the most popular programming languages in general.\nWhat is the easiest game to code?\nWhat is the easiest game to code?\n- – 2D Breakout Game.\n- – 2D Breakout Game.\n- – 2D Breakout Game.\n- – 2D Breakout Game.\n- – 2D Breakout Game.\n- – 2D Breakout Game.\n- – 2D Breakout Game.\n- – 2D Breakout Game.\nWhat is the easiest game to code in Python?\nWhat is the easiest game to code in Python?\n- 1) 2048.\n- 2) Flappy Bird.\n- 3) Snake.\n- 4) Tic Tac'}]}
+
+————————————————————————————————————————
+
+Prompt: For real numbers x > 1, find the minimum value of
+
+    (x + 8)/sqrt(x - 1).
+
+Token Length: 30
+TTFT: 0.137 s
+TPOT: 63.385 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nSolution\n\n    (x + 8)/sqrt(x - 1)\n    = (x + 8)/sqrt(x - 1) * (x + 8)/(x + 8)\n    = (x^2 + 8x + x + 8)/(x - 1)\n    = (x^2 + 9x + 8)/(x - 1)\n    = (x + 1)(x + 8)/(x - 1)\n\n    (x + 1)(x + 8)/(x - 1)\n    >= 2*sqrt((x + 1)(x + 8))\n    = 2*sqrt((x^2 + 9x + 8))\n    = 2*sqrt((x + 1)(x + 8))\n    = 2*sqrt((x^2 + 9x + 8))'}]}
+
+————————————————————————————————————————
+
+Prompt: Draft a guide to help students research for their essays.
+Token Length: 11
+TTFT: 0.145 s
+TPOT: 63.334 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '\nThe guide should include:\n- A list of keywords to search for\n- A list of search engines to use\n- A list of databases to search\n- A list of reference sources to use\n- A list of books to read\n- A list of websites to visit\n- A list of people to contact\n- A list of questions to ask\n- A list of sources to cite\n- A list of resources to use\n- A list of resources to avoid\n- A list of resources to use first\n- A list of resources to use second\n- A list of resources to use third\n- A list of resources to use fourth\n- A list of resources to use fifth\n- A list of resources to use sixth\n- A list of resources to use seventh\n- A list of resources to use eighth\n- A list of resources to use ninth\n- A list of resources to use tenth\n- A list of resources to use eleventh\n- A list'}]}
+
+————————————————————————————————————————
+
+Prompt: Make a web page with doctype, html tags, head and body tags
+Token Length: 15
+TTFT: 0.144 s
+TPOT: 63.335 ms
+Output Tokens: 200
+Response: {'choices': [{'text': '.\nMake a web page with doctype, html tags, head and body tags.\n- 0 Users Found This Useful\nRelated Articles\nHow to add a favicon to your website?\nA favicon is a small icon that is displayed on the address bar of the browser. It is also...\nHow to add a favicon to your website?\nA favicon is a small icon that is displayed on the address bar of the browser. It is also...\nHow to add a favicon to your website?\nA favicon is a small icon that is displayed on the address bar of the browser. It is also...\nHow to add a favicon to your website?\nA favicon is a small icon that is displayed on the address bar of the browser. It is also...\nHow to add a favicon to your website?\nA favicon is a small icon that is displayed on the address bar of the browser. It is also...\n'}]}
+
+————————————————————————————————————————
+
